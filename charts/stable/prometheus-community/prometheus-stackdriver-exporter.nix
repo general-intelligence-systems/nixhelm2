@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-stackdriver-exporter";
-  latest = "5.0.1";
+  latest = "5.1.0";
   versions = {
+    "5.1.0" = "sha256-q716FMF0Yg4AGBs/TiTjOgUh3nQjF48nT9zwN7dLamk=";
     "5.0.1" = "sha256-Su+ULlCR4Ehy2SVYoaqkjsTgolb9IhSP3/EmfA7A0rc=";
     "5.0.0" = "sha256-Ah1C7Q6AT770wnPEb2u5U4nsQp/8PQzSl341mGdKkZ0=";
     "4.13.0" = "sha256-pdWMqLMlfCROQxuAVR/bzVOOXWQ9chynz58t4Q2DHRI=";

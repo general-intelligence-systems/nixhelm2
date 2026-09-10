@@ -1,8 +1,9 @@
 {
   repo = "https://percona.github.io/percona-helm-charts";
   chart = "pg-operator";
-  latest = "3.0.0";
+  latest = "3.1.0";
   versions = {
+    "3.1.0" = "sha256-wy6jZPB37JXIi0K2pGJANT/Ums1ST26P3RrO2WKeIpw=";
     "3.0.0" = "sha256-eVuZJAicyfCI1H+/E8yU8CB8hGKdabWB9QSm0fvu/JI=";
     "2.9.0" = "sha256-UBC99YUdOIwQlYN71r/w4Ufta5Y0B7gLXEcEiU41TPE=";
     "2.8.2" = "sha256-iD5d9CmVUsgwv0KeVOF/XBD2Pq2S291wGcsK9AskUJI=";
