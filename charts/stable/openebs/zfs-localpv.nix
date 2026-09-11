@@ -3,7 +3,7 @@
   chart = "zfs-localpv";
   latest = "2.12.0-develop";
   versions = {
-    "2.12.0-develop" = "sha256-Jh695Hv7yxtDPh529Yt1rAtvLbn10NAjMVf26/yxsWA=";
+    "2.12.0-develop" = "sha256-l2KjV2XMJBAHE+TuflRXwZwqetemnCaGBlEDYxZWtiI=";
     "2.11.2-prerelease" = "sha256-mti/GyPDmaurPav0PmiJTFWuG4rKxeTvc8e2tw3JEMk=";
     "2.11.1-prerelease" = "sha256-TIUXQOE+Qd+/CGmF5kXSQTCjcEhqzjsTWvi19JarN48=";
     "2.11.1" = "sha256-VNGqtfwjA7r8xgCFxBHdkx27Q/tcFgv8ZOth8pQqiwI=";
