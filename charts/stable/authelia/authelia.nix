@@ -1,8 +1,9 @@
 {
   repo = "https://charts.authelia.com";
   chart = "authelia";
-  latest = "0.11.21";
+  latest = "0.11.22";
   versions = {
+    "0.11.22" = "sha256-8uI/3Ezad2/pbwqmlZq5ySfGyP5n2Aam0/2tvF++RF0=";
     "0.11.21" = "sha256-yv3wkiZfDy2u5mgdXCBSSVgysyitqUIEyoBwPXjOH/Y=";
     "0.11.20" = "sha256-6WPevcH9VXfA0KUTExxNrbZ5QfC6OesXBIkxlzCgzcg=";
     "0.11.19" = "sha256-UUzOrjcWETGuHuwUymZuGDrqymXJNBc8iG9s61+2OWU=";
