@@ -1,8 +1,9 @@
 {
   repo = "https://ananace.gitlab.io/charts";
   chart = "peertube";
-  latest = "1.8.1";
+  latest = "1.8.2";
   versions = {
+    "1.8.2" = "sha256-";
     "1.8.1" = "sha256-";
     "1.8.0" = "sha256-";
     "1.7.6" = "sha256-";

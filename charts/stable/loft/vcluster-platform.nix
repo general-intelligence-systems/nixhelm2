@@ -5,6 +5,7 @@
   versions = {
     "4.13.0-next.internal.3" = "sha256-1jgZ33gKKOwQiKN7E26fH2HcTyRUIHtEACNgOImEiQs=";
     "4.13.0-next.internal.2" = "sha256-MZ4nk2613taJp65aFnBvcpB62yrm6bRhbp/va9/Nfl8=";
+    "4.13.0-alpha.12" = "sha256-rUq+9tD08Af2uHluOlMaO5gZjtyesa7CELzSUJ5B9/g=";
     "4.13.0-alpha.11" = "sha256-GDX+kf1YPGlwX73ExQQpXxnHzji0nu7TL+tUZ+WAhkc=";
     "4.13.0-alpha.10" = "sha256-1oXvVRywzMVC1RyivTOvnIExtwtJniMdZ8dVHBz2NtA=";
     "4.13.0-alpha.9" = "sha256-O1UoD3PsyKp/LNMrr6BMOAG7UOCWbB0lGJOOiN/rOVI=";
