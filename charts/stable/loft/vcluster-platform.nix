@@ -17,6 +17,8 @@
     "4.13.0-alpha.3" = "sha256-Mwc/w8efMI53GW2EUql92szTH5BnB2N6ajQsQtP5lg8=";
     "4.13.0-alpha.2" = "sha256-aVVQArtgY0ro0mQ7K9CIjPC83ZbDfCLv6XRf3Ll7ZeI=";
     "4.13.0-alpha.1" = "sha256-CEnuodwB6k9tbqASOkRf80VDJihD/aXMfG7RQy1Moy8=";
+    "4.12.1-rc.1" = "sha256-Brp5XhMvxt6B+PmVp53t0NNPl1yQvjQjXUH7KoZ4wm8=";
+    "4.12.0-rc.12" = "sha256-pxffkMBJ0DpA56yC+NNHDmaNlDhWSlaNlYhUCyIXNyo=";
     "4.12.0-rc.11" = "sha256-E/Z+tg1+trFQqGFRtos+yWg4NZaU6WNzeGGj6dAdgxc=";
     "4.12.0-rc.10" = "sha256-PmNiTdMMVqmbKBuP+Px+eqfApRuollmyXqzDolsq6ro=";
     "4.12.0-rc.9" = "sha256-OwO+dwCKV39lPwn4ZmKiE6Q0ModdlA5uPj1a5dFhRwE=";
@@ -40,6 +42,7 @@
     "4.12.0-alpha.2" = "sha256-JUQ9VThHGRUOjnfByoelA5oe1y7sccSzNShVCLfeScY=";
     "4.12.0-alpha.1" = "sha256-7QCLQW8BWZKqIjhY/IWjvDpjTk9d0zv50+WIFQ6ri6o=";
     "4.12.0" = "sha256-HrZU6pdqQyk3ILYil55Df4gHXZuEokwof9l16jSSr10=";
+    "4.11.3-rc.4" = "sha256-unFt7dM5aK98LI3+3KOrLC50Z38UHgEvR/gzymoP1zE=";
     "4.11.3-rc.3" = "sha256-+dazYc23rSLnU63xR0g/4XVCF7rM/EP0Y3m+fzy1bMM=";
     "4.11.3-rc.2" = "sha256-kspPYABcDAIHcaW7tFj8Oo+cBk0qk0LjhbCOjlD3Gy4=";
     "4.11.3-rc.1" = "sha256-INK+C2HhTFfuYMK8jGUwE2hnQ7HYxegrQw3DAKxx2+g=";
