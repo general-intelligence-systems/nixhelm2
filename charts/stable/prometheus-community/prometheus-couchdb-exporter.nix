@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-couchdb-exporter";
-  latest = "1.0.2";
+  latest = "1.1.0";
   versions = {
+    "1.1.0" = "sha256-y15PH+2p6TgurGDZrpu2JDG57nX/2/0xQmpbAhhzZrw=";
     "1.0.2" = "sha256-Ls9f/i7T/iGOm/7L3jcxebCxcAEyNuozMlVP98jRODk=";
     "1.0.1" = "sha256-XX870IcbVus+GPEf6T+eGc3bRSGrppU/DXsCQbD7uQ4=";
     "1.0.0" = "sha256-ukbmd2zoVpI4kL1j+wDGoNnvBfCjJeWOZ6jhEIaFiVk=";

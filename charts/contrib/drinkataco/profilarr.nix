@@ -1,8 +1,9 @@
 {
   repo = "https://media-servarr.shw.al/charts";
   chart = "profilarr";
-  latest = "2.2.0";
+  latest = "2.3.1";
   versions = {
+    "2.3.1" = "sha256-NcmwsoNb0+8IT4++LQFHRyP28Y/wCTeqJ+xjtKwSwAY=";
     "2.2.0" = "sha256-VjwWfGi74SHIvcsf5SM27uhvytGGVdpALWrxdXyqg5A=";
     "2.1.1" = "sha256-xBFDadBq8m8QhMf/F5T5TlIQzY6OCD7X+/b1ltle92I=";
     "2.1.0" = "sha256-AncFNJUlR0YjKzeyUcGudlsYd2xnNgNjdSxWFNvtVGc=";

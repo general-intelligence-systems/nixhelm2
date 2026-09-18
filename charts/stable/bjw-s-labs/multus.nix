@@ -1,8 +1,10 @@
 {
   repo = "https://bjw-s-labs.github.io/helm-charts";
   chart = "multus";
-  latest = "1.3.3";
+  latest = "1.3.5";
   versions = {
+    "1.3.5" = "sha256-0e9jf6U+bRADDdyTNOU+qhYQ2+K/6kw+a3PomES9hBU=";
+    "1.3.4" = "sha256-PSYUJP1+jQu1D6serCdrZ+bRggtNwOyH4/fOqayLNz8=";
     "1.3.3" = "sha256-3N7gXVheOh5iwanB+B/CktmE7o7yF5WTi3jhlurYtc4=";
     "1.3.2" = "sha256-Xg0PYYCbnfhA8tYve670YNxybkWQ8ZfvlarnNu4Fb58=";
     "1.3.1" = "sha256-mVNagdtlgCj2mABaY9amRabtSG1PdkfK6eWKTk1HxTA=";

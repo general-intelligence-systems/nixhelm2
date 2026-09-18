@@ -1,8 +1,9 @@
 {
   repo = "https://pkgs.tailscale.com/helmcharts";
   chart = "tailscale-operator";
-  latest = "1.102.3";
+  latest = "1.102.4";
   versions = {
+    "1.102.4" = "sha256-8pioYHdXSQN91vQr92Q2m74oZb3/8CiehkhRpLyQweI=";
     "1.102.3" = "sha256-wkQAFN8E/fG2e1PapCkNe4eFhM9HAvmxtQ9RumRJmmo=";
     "1.102.2" = "sha256-FAWqw4t1rgYVgjR3Y7PTXZg4THpqZgn6i02B8EqGGHo=";
     "1.98.9" = "sha256-Px/6M2IKhrpX0HQjTX3GvR95/5JyjykXauUhyXGUMco=";

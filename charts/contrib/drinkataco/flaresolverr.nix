@@ -1,8 +1,9 @@
 {
   repo = "https://media-servarr.shw.al/charts";
   chart = "flaresolverr";
-  latest = "0.18.1";
+  latest = "0.18.2";
   versions = {
+    "0.18.2" = "sha256-6XTnhXTm4tCtJIFRnPjAAB1hxn4RN+Num0UqVdgjroE=";
     "0.18.1" = "sha256-bHFdxcKRo5jUAKXUbnNPrpwqXkt2iIo0+TUXMqGj0qI=";
     "0.17.0" = "sha256-9zaY9KXmFEyV2ohFcEJ8AaqYHnSPO32oW2Pn9EMth8w=";
     "0.16.1" = "sha256-pvVDR8J+iS/Lm0LGHq+o1+HpkNJ5pZg+to+uTFQiPP8=";
