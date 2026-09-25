@@ -7,6 +7,8 @@
     "v3.4.7-rc.1" = "sha256-tMPWULU7jOcpAMYGGPLXei2z4M9fEqIkQF7JUeHgwns=";
     "4.13.0-next.internal.3" = "sha256-t5xIK/b/AiyNm2cDgZfWi2MUedAEIybjy0uoTswAyG8=";
     "4.13.0-next.internal.2" = "sha256-zJLJSkDk2uaYQgp0rOflNdOK51/f8CFGtc7Y5rDmhy8=";
+    "4.13.0-alpha.15" = "sha256-//DAvgVcYoGhtCCN7lYw/YM0FUru1ktxIrkmrpnN5Ss=";
+    "4.13.0-alpha.14" = "sha256-nnzP7OcnXihswa4vStegvu/A0uk3yyxG+y8v90Biiv4=";
     "4.13.0-alpha.13" = "sha256-JvcFOYAURIPC6Eft0D3sZYh3VLmM11xkv6iiwtUeEXI=";
     "4.13.0-alpha.12" = "sha256-mkWpux/FMWCrpiOw6ivE4kuR8BJIaABnG1kg9iMNk5E=";
     "4.13.0-alpha.11" = "sha256-BUiwcVftiP6eS5HJkSdszWatGObzCGuhLBzKpic/Wnw=";
