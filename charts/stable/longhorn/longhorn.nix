@@ -1,8 +1,9 @@
 {
   repo = "https://charts.longhorn.io";
   chart = "longhorn";
-  latest = "1.12.1";
+  latest = "1.13.0";
   versions = {
+    "1.13.0" = "sha256-5X8BDSqLzw2luLA//s9Jxbw13cJmNYjOjyK3VnthM+0=";
     "1.12.1" = "sha256-yM9LNanYcs1ffkT9JtjmrHwquu5C9OLyoLDrvG46YRY=";
     "1.12.0" = "sha256-hpuyBwGxVEc2BvHolnsn808kSKLf5uuJcPHK5pVzhPU=";
     "1.11.3" = "sha256-qwaC/oqyhjwnG8/CMLyMZ6RdwPJDLK27kXs/UqIzk9Q=";

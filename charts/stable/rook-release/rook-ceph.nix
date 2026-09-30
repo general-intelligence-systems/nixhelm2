@@ -5,6 +5,7 @@
   versions = {
     "v1.21.0-beta.0" = "sha256-gpv8/ffQkzhD2OGapDbLOVdE4eP1vVz88Mq+UvGoQ/k=";
     "v1.21.0-alpha.0" = "sha256-Ys975yiJhjsSYXzs/2kYVy0UlGaQFGQ409xjLLayQZc=";
+    "v1.20.8" = "sha256-+hgIBnEwkxwtKDJc0HE+Z3OSVgp6rJS5KFgq5HDMdZM=";
     "v1.20.7" = "sha256-pfUAZ0kOogZOV6AJTTO6tWnE0cr7Tur8wfwN5Ixl1uE=";
     "v1.20.6" = "sha256-g6Fu4Z3Y1iHfQVlQSzNYXYDaG/ftg8c0qejUgoxyQ1M=";
     "v1.20.5" = "sha256-dfWwZvE1ZcjrcEP7NckVM8l52t6MJt0Y+gLVDkytfu4=";

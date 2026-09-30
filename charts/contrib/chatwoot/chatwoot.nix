@@ -1,8 +1,10 @@
 {
   repo = "https://chatwoot.github.io/charts";
   chart = "chatwoot";
-  latest = "2.0.25";
+  latest = "2.0.27";
   versions = {
+    "2.0.27" = "sha256-VLRYrO0cg2bVXKg45GzRsnLbdeZIKcv7BKmqc9OcmRw=";
+    "2.0.26" = "sha256-iinAULoty0OBWRAySwjtAHtnoUaDlH8VCF466VrwzTo=";
     "2.0.25" = "sha256-VGnOhpBlKMaj687t6ffsNmW3V4MnyLQJdTlVq4Pmc7w=";
     "2.0.24" = "sha256-cUmRnHNtRyYoLtFijVGp3JaXvBiFcPoSHU5h4KjyubQ=";
     "2.0.23" = "sha256-+c1UyOIc4HAyuCcZBpSSPTSPIUzrJ70nLPMg6HbMeT0=";
