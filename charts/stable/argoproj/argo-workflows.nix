@@ -1,8 +1,9 @@
 {
   repo = "https://argoproj.github.io/argo-helm";
   chart = "argo-workflows";
-  latest = "2.0.8";
+  latest = "2.0.9";
   versions = {
+    "2.0.9" = "sha256-bBOVAWX4GMKwLizB+WUXexsDrRxmO/6l5O/Z0glt3s8=";
     "2.0.8" = "sha256-ZlUhWwj4v/pMh8FQO4JqlsOSF2/Qdbh7S/kmZE5FSkM=";
     "2.0.7" = "sha256-hY7/tgxd4LsbNZzr2MxgYplNvIz3mRLu+Fe7VRr5Jno=";
     "2.0.6" = "sha256-ucgwjlnYwx+En5wzKodk1PLpctoCvd9MrLrCU5cLp6o=";

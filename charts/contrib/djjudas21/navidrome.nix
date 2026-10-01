@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "navidrome";
-  latest = "6.8.5";
+  latest = "6.8.6";
   versions = {
+    "6.8.6" = "sha256-9Fahu5IgAI6Ro8orr0dMxBv66wzP3fyBgHQANqHkDcQ=";
     "6.8.5" = "sha256-cC9UFltVE0uvPjp4YfrbmzNC/0n855dC/sRHcRwp23o=";
     "6.8.4" = "sha256-0w5TfZwyIe4O9GOdvRBR7l5xHFONLhhxxIyZ9lC3VSw=";
     "6.8.3" = "sha256-hwSrI5E3qHqTLV/n0gKkSL1jOrWq7Qg6JtkSgVh75PY=";

@@ -1,8 +1,9 @@
 {
   repo = "https://emberstack.github.io/helm-charts";
   chart = "external-dns-extensions";
-  latest = "1.0.21";
+  latest = "1.0.22";
   versions = {
+    "1.0.22" = "sha256-8PvrIL6iGdfkOU5JpIipd9EznZVDWvFuPyZaN8p4Z2Q=";
     "1.0.21" = "sha256-HOvSqHsK3Y3fohqkxAzO82qydHwT88FUC7h8we6OIpU=";
     "1.0.20" = "sha256-89zrAJO5AsUgsdyFxIQFcsXHKAIvB9Vzg/LZl1YvtKM=";
     "1.0.19" = "sha256-Pyi+PNuh8smJYbO97+eGg0+heVrEZqum79VbNx1aZyQ=";

@@ -1,8 +1,9 @@
 {
   repo = "https://helm.ngc.nvidia.com/nvidia";
   chart = "power-steering";
-  latest = "2.2.1";
+  latest = "2.2.2";
   versions = {
+    "2.2.2" = "sha256-uVnJxSH8KbCIFLBnsHnm5XHxypAo1Qfpt5Fp8TiqDaU=";
     "2.2.1" = "sha256-uOP+reLV8mzBOvWHEfNHpQ5zWQG5Gq9C0JYOgR1t9IY=";
     "2.2.0" = "sha256-gAN5GVmjnTkreIABHXRmqq1qG9aV38uh0UH10IY0mpM=";
     "2.1.1" = "sha256-mljvMnETOjUHJL66FklmpsdCRh7rIEvUizlhngO4SOY=";

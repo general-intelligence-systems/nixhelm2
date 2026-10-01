@@ -1,8 +1,9 @@
 {
   repo = "https://emberstack.github.io/helm-charts";
   chart = "mssql";
-  latest = "1.0.21";
+  latest = "1.0.22";
   versions = {
+    "1.0.22" = "sha256-1SSSy88MBIUWxcwuke1pAhQeGls2AIHWrt/BgtdqDTY=";
     "1.0.21" = "sha256-LeOZ9tM3bNQtjTn38IdbcIhnaZkdl8A8uO/t3yiBpcU=";
     "1.0.20" = "sha256-5YANqksSyY8pJSjdX+PPZIMkONvr1siB/q/7wObPWRI=";
     "1.0.19" = "sha256-NWiEosbo4H67+HVDXywSsCWNXGDIMlfkThOPnRZCA6g=";

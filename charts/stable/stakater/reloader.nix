@@ -135,6 +135,7 @@
     "v0.0.21" = "sha256-DbTgAY5as0/TTWbUzU/0KXbqiG3Mgwb9p0nsDAsBK+Y=";
     "3.0.0-beta.2" = "sha256-BtjNVhE+l1ULOCl2kxV3d7CKyzb2fhOjWjaQqw4NEiM=";
     "3.0.0-beta.1" = "sha256-5kQ4PQpWhuTHL/zb8vqZS9hRh1n24/gHDYVCNcJiaFg=";
+    "2.2.18" = "sha256-XrRXa6daDhZYl+ipim/+8V1ok5Qw2m64/oB5a7p1yxc=";
     "2.2.17" = "sha256-oX7pHWZ4XCnBfl39A4wTsONbIzAbM/j9tDG0A9inoHE=";
     "2.2.16" = "sha256-U4n7SWoSDWqsjyszxUuiHtWQFBMd7xTPx4+dSpN00rc=";
     "2.2.15" = "sha256-sEmbxLOdUO5gfX0vdiAqTMdmw23sZ1GIhG8N0TiUTWU=";
