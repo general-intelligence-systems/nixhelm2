@@ -1,8 +1,9 @@
 {
   repo = "https://helm.cilium.io";
   chart = "cilium";
-  latest = "1.21.0-pre.2";
+  latest = "1.21.0-pre.3";
   versions = {
+    "1.21.0-pre.3" = "sha256-MyFvvjGa8CPcnoqvksMfupRa3IVvv6TPCd6F8JAvQbE=";
     "1.21.0-pre.2" = "sha256-t09VSVgfyxKG9N+6Ip8zGwd9U+MRH0vIM9uPUI0UhR4=";
     "1.21.0-pre.0" = "sha256-uQ+ba2fVZp0UP/GPUByvhWwiBinOrMFJ9Zd7H6irIS4=";
     "1.20.2" = "sha256-sq/Ye391+HX5KhRVnxT1m3uru0edlo4/1iWiC/MOwg4=";

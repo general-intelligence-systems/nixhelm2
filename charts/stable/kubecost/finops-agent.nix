@@ -1,8 +1,9 @@
 {
   repo = "https://kubecost.github.io/finops-agent-chart";
   chart = "finops-agent";
-  latest = "1.0.28";
+  latest = "1.0.29";
   versions = {
+    "1.0.29" = "sha256-EtT3Jhx/SpaVJltaFAUib4uPrDELCDnSHXSGVdVj1I4=";
     "1.0.28" = "sha256-U7uhEiBHlJBy/P+5PD/Idws/kYgwhIF+qyzy8v72R4c=";
     "1.0.27" = "sha256-VhDyBxg8PaJV2/I1qXWGO8aH+Pl1z3lU2xhFV2M/VG8=";
     "1.0.26" = "sha256-O4O+PluemtG88HM874MVpWdJbVnNd5IuolllVzktR1s=";
