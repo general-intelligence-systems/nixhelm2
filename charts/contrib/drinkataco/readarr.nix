@@ -1,8 +1,9 @@
 {
   repo = "https://media-servarr.shw.al/charts";
   chart = "readarr";
-  latest = "0.18.1";
+  latest = "0.19.0";
   versions = {
+    "0.19.0" = "sha256-19z+uSFqAnLscqLIG/uOqIVLm0GgH+5QfdswYrdCpHE=";
     "0.18.1" = "sha256-YTwQT9tZoYOuRBJbygOKebNlYlNUsg9531tSanR0bJg=";
     "0.17.0" = "sha256-+NmnIqkrAJuSey9aom7FcvXNnc9SpTnsWRSRT6xaFBs=";
     "0.16.1" = "sha256-foOWm1koTVmSX2XiNo7HcfOHnLfTYr1idzPyddfmWBo=";

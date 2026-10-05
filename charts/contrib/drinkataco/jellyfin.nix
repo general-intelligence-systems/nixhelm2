@@ -1,8 +1,9 @@
 {
   repo = "https://media-servarr.shw.al/charts";
   chart = "jellyfin";
-  latest = "0.17.1";
+  latest = "0.18.0";
   versions = {
+    "0.18.0" = "sha256-LxJjufHGf+pfOj1KbND7eICrCHTtMbAVAwXu2bwl2ag=";
     "0.17.1" = "sha256-/rCxokoI49nl4LuVvN9GFjGG3RJJSInVaEok1wruAWU=";
     "0.16.0" = "sha256-F1+JwtEEZ62mnfaayzcL5SzwhZne/G/N0WFgntgLBlg=";
     "0.15.1" = "sha256-Q6onAphqCGTrMIehyPsM6Ko4MhlNSKM34o2rpA+1uCk=";

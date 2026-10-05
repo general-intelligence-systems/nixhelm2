@@ -1,8 +1,9 @@
 {
   repo = "https://media-servarr.shw.al/charts";
   chart = "sabnzbd";
-  latest = "1.6.3";
+  latest = "1.7.0";
   versions = {
+    "1.7.0" = "sha256-cbvn2/hwrLI/Rdfc+5TNFhYpvDq60cCKtu6/s4yDT2I=";
     "1.6.3" = "sha256-sEXWqNUiCDF6upe7P/7XkJfGfcqgh31BrP/8MaJCx6s=";
     "1.6.2" = "sha256-RV2Ijj7tT8fdai1BN377heGhh/e/htMlUsow7T97mo4=";
     "1.6.1" = "sha256-JbkMYpPCImOZsj9p3DtI/O35gGYdxB/8NehWwbBdK60=";
