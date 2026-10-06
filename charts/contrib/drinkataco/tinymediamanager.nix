@@ -1,8 +1,9 @@
 {
   repo = "https://media-servarr.shw.al/charts";
   chart = "tinymediamanager";
-  latest = "1.7.0";
+  latest = "1.7.1";
   versions = {
+    "1.7.1" = "sha256-PQ7KGMndqQft/Myi5mwAJR35qW0KFpyFhkjppGRYgXg=";
     "1.7.0" = "sha256-shcAFYsvZjLj6jgLs3TCUsHqGtThrVIiFQlQeYay4Us=";
     "1.6.4" = "sha256-6tKhzXJEBVBxA2rI6LnjfgjwyOWZCeEWIs62mFy8yOw=";
     "1.6.3" = "sha256-LTXTuIebTG53SzUUhxvzr0nFGBKkacwpBw9i60vfTMY=";
