@@ -6,6 +6,7 @@
     "4.13.0-next.internal.4" = "sha256-cVD7XW0y/fLjGZKfw0qYKEhVRoE9vDkSth77HmZmTmE=";
     "4.13.0-next.internal.3" = "sha256-1jgZ33gKKOwQiKN7E26fH2HcTyRUIHtEACNgOImEiQs=";
     "4.13.0-next.internal.2" = "sha256-MZ4nk2613taJp65aFnBvcpB62yrm6bRhbp/va9/Nfl8=";
+    "4.13.0-alpha.22" = "sha256-ffHJtqwZ1zNIym+rGwrTJ/SyuPS0z0oHkT+apkkVOsE=";
     "4.13.0-alpha.21" = "sha256-sNrnsLElP+xtO0yvqLSSDE35skJcuLKU6dsaks/BmrQ=";
     "4.13.0-alpha.20" = "sha256-+UQvtOKhQzw1Hb+2En8dv1fpC8/aUKTs3wGmUu/wG1Y=";
     "4.13.0-alpha.19" = "sha256-J2mm9m25E4cFYHxFWIm5SbSiPxpJKm2RVJl+4jvM1H4=";

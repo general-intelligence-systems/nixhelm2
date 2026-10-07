@@ -1,8 +1,9 @@
 {
   repo = "https://kubecost.github.io/kubecost";
   chart = "kubecost";
-  latest = "3.3.1-rc.1";
+  latest = "3.3.1-rc.2";
   versions = {
+    "3.3.1-rc.2" = "sha256-n7wqqP7QGYxPuuU0tE4hBxYQE89IMEUeUnBlEzLrkiQ=";
     "3.3.1-rc.1" = "sha256-gWEiHVF08xcAUKuTnSV5Q/WLyKmK7h58q1FaQsOsrnM=";
     "3.3.1-rc.0" = "sha256-DHrLfJArbTjWkfTCPT7zavRhT13lcvyE4Qzpz8aSjN0=";
     "3.3.0-rc.14" = "sha256-lliNeaZBh99bQgxa5r5qLK3yXlNRx7gWE5xhtFxTs6c=";
@@ -21,6 +22,7 @@
     "3.3.0-rc.1" = "sha256-oNJlZbyPXvL/3CyJKqz3w6TEFCQaNe1mWJqJ+kHtClU=";
     "3.3.0-rc.0" = "sha256-bII9eJI1HwOlQEoD8SesR+lqMmCcdEyAFDlRs3gIIo4=";
     "3.3.0" = "sha256-TrYisvsKPy6qnf71fD+CcA3+pK8Rir/mpDE1BSjIZRQ=";
+    "3.2.5-rc.0" = "sha256-CseaxBNPLcN1gla1QTbNxw/fZZPogmE8JGe8YGLCIBk=";
     "3.2.4" = "sha256-jdSJL4uBHM/TZycktiOPEkdFNcnwYd5VVdzaEZtmRAk=";
     "3.2.3" = "sha256-fb3PDqT7rOEaVAF8VkaX188GJuR8AVgLDxOBoP7ETsE=";
     "3.2.2-rc.9" = "sha256-4J1wPwfGNqLwdqFWVEel0eIvR1KWpLxYfcN7WZVyGIA=";
