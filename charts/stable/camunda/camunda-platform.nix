@@ -8,6 +8,8 @@
     "15.0.0-alpha3" = "sha256-uMXYsXy0X6K0qf4xsKGIpP0JQ+DVoQyE1a8Oe+mAswE=";
     "15.0.0-alpha2" = "sha256-uBHzTzeHH7IeH81UMoI5XUtnQve69mCatvPHGlAdLNc=";
     "15.0.0-alpha1" = "sha256-feX16Q0M0gpclYZHtbFZaXHUZ2XcPRvJQ18hxytRBrM=";
+    "15.0.0" = "sha256-sRVimBSe1b3rV+aUu+zCgXPY5uutLLWSAJ/gQe2oTWM=";
+    "14.11.1" = "sha256-DtABIJxWvSoibblecWNABo7s3W69J74dwjKZPtLOoJc=";
     "14.11.0" = "sha256-WMTk9cqtn5D+ntGbXKrOhO8W2ooTTtlCOPOJz/nyVIY=";
     "14.10.1" = "sha256-uZHecUmr+K8e5Wm2E8gggNrmKnkmFqIfX0OS5RCHwbI=";
     "14.10.0" = "sha256-dSutyLZPWpCPvrPbHC04Wd9evYDV6/TvaimNJLzXwNo=";
