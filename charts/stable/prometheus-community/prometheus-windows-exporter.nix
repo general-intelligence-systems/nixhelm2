@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-windows-exporter";
-  latest = "0.12.8";
+  latest = "0.12.9";
   versions = {
+    "0.12.9" = "sha256-zvBtlN0fms3XjckkpNeoq6rMfab/u02vi2SYrN+lnOU=";
     "0.12.8" = "sha256-WXF2pt4MAo5pCM9xwnDHhBMpJglTaxMQ2alUYcFLcQM=";
     "0.12.7" = "sha256-Zko1xpueh5Ltx0CWxk3rLvtLl98dSWrIXt+fT7HKLlY=";
     "0.12.6" = "sha256-H3q3KCfzJUPjtvJPshsDCIhn4hPWGgAMPwTYZ81Eu88=";
