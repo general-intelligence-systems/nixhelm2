@@ -1,8 +1,9 @@
 {
   repo = "https://helm.ngc.nvidia.com/nvidia";
   chart = "gpu-operator";
-  latest = "v26.7.1";
+  latest = "v26.7.2";
   versions = {
+    "v26.7.2" = "sha256-qUqIYoqQ+sHfjUdGm68U3TUhJlU/MP0ezY4YJRauG/Y=";
     "v26.7.1" = "sha256-/c5MugfbXdtt/QvfYSdqRMJBNvKxk7xuvIHdGw8El3c=";
     "v26.7.0" = "sha256-bRsoLXQoi+IGxm3+SQc7fIXCCekoJsJ/ZQdCkFXi4QI=";
     "v26.3.3" = "sha256-Wau1hSoks64O91e/6jBR9Bmsv1We5e/XLwZy0or1amg=";

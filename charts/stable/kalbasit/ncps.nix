@@ -1,8 +1,9 @@
 {
   repo = "oci://ghcr.io/kalbasit/helm";
   chart = "ncps";
-  latest = "v0.9.4";
+  latest = "v0.10.0";
   versions = {
+    "v0.10.0" = "sha256-z8dA53zjNQxEsI1FuVXINTQftJy4eBCO2JmG9jaKP3w=";
     "v0.9.4" = "sha256-whZFPTUb+HLXx/Ed8rpWr2oukHWCW6f/meIpMKw/bYY=";
     "v0.9.3" = "sha256-hyFN4G5Q1hTJTG8ROaytdOg3bIsaIc/Tq7kXEi138XA=";
     "v0.9.2" = "sha256-lhoVHFoyFo1o7iF+ESyjjGFLONcV43A3J2UCFP1d9+s=";
