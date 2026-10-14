@@ -3,10 +3,11 @@
   chart = "vcluster-platform-head";
   latest = "0.0.0-latest";
   versions = {
-    "0.0.0-latest" = "sha256-7rRgQxYF/qFc5mgcVps+fnwQoq88wRjOF65TwJ69cX8=";
+    "0.0.0-latest" = "sha256-7xDvwhaAmiNh8/k5PkDXSavvz/KSJx1mJqJFX2TmInw=";
     "0.0.0-d8038c1" = "sha256-wQUG2pospu51vbLNLmxzuvmXk0njFeUjLQdoTUuGPlg=";
     "0.0.0-d8f4a9d" = "sha256-bVBcyH0iT64gdjVKO17vM0ztAmNJ1/Zo2CjRL2yQyTI=";
     "0.0.0-d6d5cd1" = "sha256-JAbebOR+StYXMr2sHSlW4yj4rTQCQH+z9/EA7Pfb5pU=";
+    "0.0.0-cb9aae0" = "sha256-/Vg27WPfMjGvzHsLe2s9I+5bFO6zMszMZLDEH2+sC1E=";
     "0.0.0-c165621" = "sha256-TM0cb9SBZ1clZ9XMUKsANTwU7crGzw0I69W7vAYV8Ew=";
     "0.0.0-c44d0d3" = "sha256-mqsmrfSNeBnCFseeIS6Ks0/86T00pc8lIXuFbjMMh+E=";
     "0.0.0-c8d3a3e" = "sha256-CLNi3doCASIzdMJdiwqUxtAKGEHG+BCgDmIIAAWswbM=";

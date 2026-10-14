@@ -72,6 +72,9 @@
     "v2.3.0" = "sha256-IJUWwAonKpxFtEejmPNsR4FTIxPwJiE9tmGkRD7+zkM=";
     "v2.2.6" = "sha256-8fHezlu7LzAfjmkBDtLcD6bVPsTeD/C+SdAunx9nFVg=";
     "v2.2.5" = "sha256-is47D1RqiDb5M8yAwCjgV+cnVm+KDjUAlDhi8OJ+lqE=";
+    "4.17.5" = "sha256-PWCNwXx3FEVb6izBogot4JuxB4/DjvwjWLW6CKp6NwU=";
+    "4.17.4" = "sha256-LSSfIQfd2rPw5X3mZJSyDqywtLb8uyOOWhRv7T2WGq0=";
+    "4.17.3" = "sha256-PKVlqUTRYY/n5t5YlsnU2O1ByZri+cL9cTr/BBnbAdE=";
     "4.17.2" = "sha256-EEl8IrijXKl62HoGo/fdG3BFt5RMeedanBtEJ9BbhCs=";
     "4.17.1" = "sha256-X4f6A26hpCjJNsWPhM1Oxrs+fDdvBTziVg2Y2hkJOr4=";
     "4.17.0" = "sha256-S8gxwwQw/NSoCPyUVWYS8Mun2Ro9sKtBF0LONrSdSJE=";

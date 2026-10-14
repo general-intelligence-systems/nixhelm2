@@ -1,8 +1,9 @@
 {
   repo = "https://kubecost.github.io/kubecost";
   chart = "kubecost";
-  latest = "3.3.1-rc.4";
+  latest = "3.3.1-rc.5";
   versions = {
+    "3.3.1-rc.5" = "sha256-swwtZA5WpYr7ENE1O42NPfkxzfl0MLaTm/2C/F7YPIw=";
     "3.3.1-rc.4" = "sha256-45fCVJ9guMLi8+E0wthG1ZjVma7uTXzYli94yG8mnsg=";
     "3.3.1-rc.3" = "sha256-iE8QG2ldH6FQvStxK4TFp82j/tsVdI8RmhmGZwwrJKg=";
     "3.3.1-rc.2" = "sha256-n7wqqP7QGYxPuuU0tE4hBxYQE89IMEUeUnBlEzLrkiQ=";
