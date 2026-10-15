@@ -5,7 +5,7 @@
   versions = {
     "v1.21.0-beta.0" = "sha256-M6BIX2FQiwQsYdY8Z/sKgRRee2ZarxYF+us75xYu8V0=";
     "v1.21.0-alpha.0" = "sha256-vtIJbi2lpGQQFqa8SsZjPkXPSjC+JB3Kpvvnm2OptoY=";
-    "v1.21.0" = "sha256-O5ezllrxsxk75eEaT02q6eQWNP2tIb42UMobpeYT9EU=";
+    "v1.20.9" = "sha256-oNOKH6KOGZJQUIOi7Y6x4SnZnVIrHOxPT4CEN3FLsEA=";
     "v1.20.8" = "sha256-Ocq67zXID6aM5cQvjOJDT+Bz0o398XGgMtG7PanuPz4=";
     "v1.20.7" = "sha256-W5NHhiC04ZfUqI+0JKsux1Lr56B99YLV+w5b1o6SQqU=";
     "v1.20.6" = "sha256-dwp/9Vx3OiDBkhSPYhVR9eIB2UC5tf2H3Xtj5ZhzgeU=";
@@ -19,6 +19,7 @@
     "v1.20.0-alpha.0" = "sha256-lNKdsecmCZloBOdsCNNj8rexe1pZu/FFyQyw9lIM6dM=";
     "v1.20.0-alpha-0" = "sha256-S8H8Z/pd+0fwWRLuj0gNhHMAmelMY3AQT6XSmz6jAS8=";
     "v1.20.0" = "sha256-lgmjVmeGTEw48ErCf/PCOvzggaNoZlkQj4adOJG2orw=";
+    "v1.19.12" = "sha256-fTHXn24Uci7NkinKK1QU+U1NL0C7WT+GxAU+tCw//cw=";
     "v1.19.11" = "sha256-7LlyMJzOUb0g/YyJwzLrK9phDoPPQGbLrh2wkGs4eF0=";
     "v1.19.10" = "sha256-pZzo0+0xVZlIY0PBGnsoGRWD2XjqUpqWoIachPzClxc=";
     "v1.19.9" = "sha256-BRdxxIozDbqUumXnHlBuFQhYHN4REXYGCHOAECgR91A=";

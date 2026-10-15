@@ -1,8 +1,9 @@
 {
   repo = "https://helm.ngc.nvidia.com/nvidia";
   chart = "nim-llm";
-  latest = "2.0.4-pb6.8.1";
+  latest = "2.0.4-pb6.9";
   versions = {
+    "2.0.4-pb6.9" = "sha256-CZ3uzPnreJ+ngEiHRGQLSdEenUAr7avOajKznNV5p1M=";
     "2.0.4-pb6.8.1" = "sha256-nc3ZWIqtrgusETgNNhV1Arjh8G4zJV/FVIsCxJ2gTac=";
     "2.0.4-pb6.8" = "sha256-ulcirY51uT+vAWVFd5ZJ6yzoQ28tbdQT6EY5mqQtNrk=";
     "2.0.4-pb6.7" = "sha256-x0gB4V4jYPlVNyGK8ng49AD4nOz8Kko75pn/4D17duo=";

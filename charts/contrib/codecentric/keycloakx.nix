@@ -1,8 +1,9 @@
 {
   repo = "https://codecentric.github.io/helm-charts";
   chart = "keycloakx";
-  latest = "7.3.2";
+  latest = "7.4.0";
   versions = {
+    "7.4.0" = "sha256-mtz8NNrc7Qx4jmysBxW8npkUwFMEBi6XD9baO42kbx4=";
     "7.3.2" = "sha256-TrtjDB+EIkX3lTvk+A7QgNGXne0lsx1IBS9D8BLjwdc=";
     "7.3.1" = "sha256-jxbiTOxVyEeWdqjkAeKKyJwp7LU3xGWrTTlybLc19SE=";
     "7.3.0" = "sha256-F+p/yfrGRG6nIKdi9aGl5bIepK5pE48QIJh4ae94bSk=";
