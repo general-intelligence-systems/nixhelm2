@@ -1,8 +1,9 @@
 {
   repo = "oci://ghcr.io/element-hq/ess-helm";
   chart = "matrix-stack";
-  latest = "26.10.0";
+  latest = "26.10.1";
   versions = {
+    "26.10.1" = "sha256-nygYGazWTU/IyJVczQtyFOqnW5sTdlUUv4OeXaRTGkc=";
     "26.10.0" = "sha256-fFu0qo9hTGsOR3zM2u08Yq5b6cP4J/JnviBYHJm222I=";
     "26.9.4" = "sha256-E/4r3tCX3cW3AaXHN/RkCPLOz7kApk+iBYstDFK7/Yc=";
     "26.9.3" = "sha256-waOd+HH74dyEXsfOtyvZLER7f5PSNPEe3EYG8uaJVd4=";

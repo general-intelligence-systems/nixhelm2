@@ -1,8 +1,9 @@
 {
   repo = "https://openbao.github.io/openbao-helm";
   chart = "openbao";
-  latest = "0.30.3";
+  latest = "0.30.4";
   versions = {
+    "0.30.4" = "sha256-+dRk8CiKljdPzdszq7Mbw/E0zKoy2j5M8nLxQ7NLuWs=";
     "0.30.3" = "sha256-1Q7TG4MF9DDfMIw0LdPB76h3IiOA6Zy0gPdPBw1r6qg=";
     "0.30.2" = "sha256-U6VanlPihla41LEmSlSRFiZzkesmUnNahVzZT+xGHJ8=";
     "0.30.1" = "sha256-Cin0dTAucN3ePF81iEErve4JmlaPgBonAeVAXNheFUE=";

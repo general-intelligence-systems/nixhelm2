@@ -1,8 +1,9 @@
 {
   repo = "https://kubernetes-sigs.github.io/headlamp";
   chart = "headlamp";
-  latest = "0.45.0";
+  latest = "0.46.0";
   versions = {
+    "0.46.0" = "sha256-+qRxqMXFUSWz3O7Rz3MADhztGPB+IIjl4S51KS+5rmI=";
     "0.45.0" = "sha256-OMYZ4O1dtBZLAsNTvLsk6BV8HZjZYbKS+Z1ozJMWuOs=";
     "0.44.0" = "sha256-Auo/ATHMjsAtZH3/U4Aur49+jZQoz3tcRkhIY1LVf4U=";
     "0.43.0" = "sha256-amuBAphMB98x2ADCfg6o/JHHZjZrp/zcL/QROwOumnU=";

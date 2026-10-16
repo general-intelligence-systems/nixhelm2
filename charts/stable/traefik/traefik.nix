@@ -1,8 +1,9 @@
 {
   repo = "https://traefik.github.io/charts";
   chart = "traefik";
-  latest = "41.7.1";
+  latest = "42.0.0";
   versions = {
+    "42.0.0" = "sha256-pu3jJGYt3MoBYKXOY5t7W53UCiCkdeEQHp+VteXYPdU=";
     "41.7.1" = "sha256-+e3Vymmf8PXqsU325P7voV91l6m1bwscAfYImx7suvE=";
     "41.7.0" = "sha256-hWbZj5Y2w4q1kJiXhSCjcWD6Hp8KE6893kIYUp+iHXM=";
     "41.6.1" = "sha256-HmXUa64LoLrvRgodgmhrUPFWNyhlo9fYqFtRw4VbLvk=";
