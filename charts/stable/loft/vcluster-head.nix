@@ -3,7 +3,7 @@
   chart = "vcluster-head";
   latest = "0.0.0-latest";
   versions = {
-    "0.0.0-latest" = "sha256-utuj0vz0rCI3OhyWpkQrITCfGSNzjsRyHNiNlhYE7Wc=";
+    "0.0.0-latest" = "sha256-aw7d6pT/hUQoqTB3pJKrx3F6Ah1Q3jWuweKeYnOp2iw=";
     "0.0.0-fe771bb" = "sha256-QegLXpVRrAfmrc+o7149TZoXdF6EL9ErkSU+2JBGXOY=";
     "0.0.0-fa8ab1b" = "sha256-rgPzZBRjVPDMmzR1FjGrLYaZHQ+7WNoYXxJ9p5vxoGA=";
     "0.0.0-f009031" = "sha256-yIXYmtR0xkZtSJTS2iqcMUDIhs7UbW0uZPG3iotpvhg=";
@@ -12,7 +12,6 @@
     "0.0.0-edbb688" = "sha256-xuvH7g1g1lNdcd6Y575KlCr5DFAxQFAG33DmJaWNBDM=";
     "0.0.0-ecd524d" = "sha256-TP6w5VxKiLYIYT0OJ204Z3G6rgeqR/uOZMIk264L91g=";
     "0.0.0-e95cfa5" = "sha256-frV2B25fRwSgiRahEgZH0wSScYGzuKWAJ3cGZTiPI6g=";
-    "0.0.0-e7b04ea" = "sha256-TNkYndn7cETBKPKLvh5MeqFmOjuw49COtztSMJQNmoQ=";
     "0.0.0-e4ee1a6" = "sha256-WP7jWbqxNIMYxXKZ6NI+pCF/I/LdRXFmeUulxsZy3Dk=";
     "0.0.0-e2fe1b7" = "sha256-SCf1l+zZO/4ZY0ywbX7CAiVz06lXaSpyLAXkinsC3xE=";
     "0.0.0-d476314" = "sha256-jUqE1Oj2XPBMx3NMUh15F0ztF8x+meS0qyO6mif8row=";
@@ -30,6 +29,7 @@
     "0.0.0-3725570" = "sha256-R2+DWc6zdvqvuyPxN3h5OUFNTVqBvKBG8tvLfojED/Q=";
     "0.0.0-95889c2" = "sha256-febMDMamWlvhVF2IXlKJb7rLRlCGkgs2BaL+Dv4LLLA=";
     "0.0.0-91719d1" = "sha256-DqhSEwAxG1SX4unzFxInDDMckIz0tgig2l+5pt7FZz4=";
+    "0.0.0-9910c4f" = "sha256-tfHlbAf3Nb2EcIwyEg1geX3QpOFo8EK8HmCtNSw/9+U=";
     "0.0.0-8584d4e" = "sha256-9zjfpzUfdApINyIzDi+fkiBhMRTOMBg0QxiXk0UEw18=";
     "0.0.0-04970c0" = "sha256-wenumiKhQ/Zuo3Mw8Y71UgSxsh4nfEf23SP2/qV/AX8=";
     "0.0.0-2745b42" = "sha256-QPWKtn/yjIkAu878OpnwyruMMPCeW2OPvCzhl+d3uTY=";

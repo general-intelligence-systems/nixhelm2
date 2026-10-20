@@ -6,6 +6,7 @@
     "1.106.0" = "sha256-i1miDOzuNsMNuOSkZyqRG1JN30C2xyk8+L5BIbywDog=";
     "1.105.1" = "sha256-tnMF3nUG51zeDyM87CVsg2G9mndpuzZbA838t4vNSK0=";
     "1.105.0" = "sha256-JiY2JaARS+pUd7/lj2YER3ENcX80m40J5kwJuTDJ5FE=";
+    "1.104.4" = "sha256-xEhP3Sfv2bGlcm0L94UIlUnguq6BTlXQXkmaYmNo3H8=";
     "1.104.3" = "sha256-2Pl1FbRIptPiMtUtgsA9DeBs/9rDcknQ0VNaRVBOtcs=";
     "1.104.2" = "sha256-E4QV4fTUqHRtD1FSqK/pHxr+g5kVMH4Hc0mnZo5IwWU=";
     "1.104.1" = "sha256-FC1XwPDocppLK/Il1LE8iT4SVInU+rvGxEWxJjD7/fE=";
