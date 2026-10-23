@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "webtrees";
-  latest = "3.0.0";
+  latest = "3.0.1";
   versions = {
+    "3.0.1" = "sha256-J8XfJ45GrFDCr/KQbpHRgK+Ou3DGN4q1OK2kC5TjPXM=";
     "3.0.0" = "sha256-7fUGC4pmBSfAD8o7psxFcqm6mWGa2QIzfx/9dmE1Qec=";
     "2.2.23" = "sha256-N6uXJdc5BWTQBrEeX/TDnd0sEO2EXIfNiPYBQ4Ia8rU=";
     "2.2.22" = "sha256-YaAaW9tVDAqKnzPfCtyrjFAsz5I7ZrZ8OxuLn8nHOtE=";

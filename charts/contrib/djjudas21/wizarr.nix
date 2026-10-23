@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "wizarr";
-  latest = "0.1.5";
+  latest = "0.1.6";
   versions = {
+    "0.1.6" = "sha256-lbCSQQ1U5XA1KzW2ItbQTj3e4/JAZq0XnYHj71CdFDA=";
     "0.1.5" = "sha256-Ra0kTGTI6e8oN6FJK1nHl8P1Hwf4wkcTWxpf9bSiZDI=";
     "0.1.4" = "sha256-MpCSlYJmCzJZuYsg/F4XHJRaFwOAnk1CYj2kCI99rFo=";
     "0.1.2" = "sha256-/XjkOtWufE4IUvpNYGkM6Ewjvw8rcVWcP64ZDyvIw6s=";

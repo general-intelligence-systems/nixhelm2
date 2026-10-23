@@ -1,8 +1,10 @@
 {
   repo = "https://jellyfin.github.io/jellyfin-helm";
   chart = "jellyfin";
-  latest = "3.4.0";
+  latest = "3.6.0";
   versions = {
+    "3.6.0" = "sha256-TXy2vktJEDkeCkVtpGVMjEIU/AvPDbyphm40EyFldsk=";
+    "3.5.0" = "sha256-rpNvOemkaVN+jhzXW+ycVqyc2bBTf1wb9wb2HxrmmHs=";
     "3.4.0" = "sha256-vvB5jOWqBXVGL8cfGxUNdYJb6A5wz/sEolfv/REs3jU=";
     "3.2.0" = "sha256-+YkpMcFF5ZnkD8EWrGrj3ItQqIgDKvAslQMrLt4mw+A=";
     "3.1.0" = "sha256-P8SVoqhRbVzncCWE9MfCFAlCCcEww/hIBNN/fT5ElqE=";

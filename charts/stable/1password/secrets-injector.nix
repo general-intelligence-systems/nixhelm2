@@ -1,8 +1,9 @@
 {
   repo = "https://1password.github.io/connect-helm-charts";
   chart = "secrets-injector";
-  latest = "1.2.0";
+  latest = "1.2.1";
   versions = {
+    "1.2.1" = "sha256-GnyJigQjWGN1N25RrHRvoDs0PTSyqpg4udJAOU6wK2Y=";
     "1.2.0" = "sha256-WRbsCSfZiP2jBzKcifCJdgWVBdg7cMXRdVjkOeuCB/E=";
     "1.1.0" = "sha256-nTaaauEBmlQmLJk9RWFjGXK426RD6Q2whZYE2At7/uE=";
     "1.0.1" = "sha256-MHqlJSraLyARJYCupWVqaActpr/kgWA10xpHqPTF0S0=";

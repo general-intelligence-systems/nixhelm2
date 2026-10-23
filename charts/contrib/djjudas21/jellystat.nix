@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "jellystat";
-  latest = "1.0.1";
+  latest = "1.0.2";
   versions = {
+    "1.0.2" = "sha256-nPIj68qHt9HyH/G5XSxhuFbmfVVyWBLZLc6vaUx9vQs=";
     "1.0.1" = "sha256-azwvSm978wEldusbKigrV29e6CPHpAby62BBtemWdek=";
     "1.0.0" = "sha256-EZatzsQfPJb3mykQbn1+0VV7q7mDnZCNUzjGKMT0p5g=";
     "0.1.12" = "sha256-G+Okd9VLXLCx8gYaSE7R+6SvvJI0f+QfUC19x4YFSZo=";

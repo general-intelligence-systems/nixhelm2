@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "jump";
-  latest = "0.1.7";
+  latest = "0.1.8";
   versions = {
+    "0.1.8" = "sha256-2MOvsh0RwQm6r67yhQt38Tvuw2G2DstTuyK/l/HlhFU=";
     "0.1.7" = "sha256-tPqGjXp2t0+WBgCAIVMrfV4l4IDSYkNzuMxrptWmZjY=";
     "0.1.5" = "sha256-79W5K9r+s2hqFvgfYks6iiIdrPc8c3mOX4O8t9wOp6Q=";
     "0.1.4" = "sha256-0bc1o+j42u9jBrdbAx2utFYod/Cnlh/4VCLUGv/hZ7I=";
