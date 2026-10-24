@@ -1,8 +1,9 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "sysdig-mcm-navmenu";
-  latest = "1.2.0";
+  latest = "1.2.1";
   versions = {
+    "1.2.1" = "sha256-VuFN/SaGCoyZKU7qoOEEB4txJKV9eSu6gMLIw2mkfLo=";
     "1.2.0" = "sha256-GMvXh37wy7DWoDo0ByP97offjSpN8eNQ3dJBv1dPCEE=";
     "1.0.4" = "sha256-mg3+GZWXtOOyUXrAL81W7gi6npTXJYuQ+5QhvYqBvkc=";
     "1.0.3" = "sha256-oN+SAMtCsHzG/nz7pagnyCvyYWdMtLg+1OdoILtPmiE=";

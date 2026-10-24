@@ -1,8 +1,9 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "cloud-connector";
-  latest = "0.8.8";
+  latest = "0.8.9";
   versions = {
+    "0.8.9" = "sha256-3bZ4INzjKT3onUx60SC+IgFk0n+emJLnrY08F+Z1eGI=";
     "0.8.8" = "sha256-++HVPVLljkjIvPP2XOSWbi/JMIMHIXvaHdBfT3IzUQ0=";
     "0.8.7" = "sha256-val47Cs/6ncJwHY0F2/KnZNFBm4RqQrZZs6LYMrSbeI=";
     "0.8.6" = "sha256-K9njaBOk0RNkPy/U1cME48Yp88kT8mQJlwF427SMuWI=";

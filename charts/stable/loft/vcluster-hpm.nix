@@ -1,8 +1,9 @@
 {
   repo = "https://charts.loft.sh";
   chart = "vcluster-hpm";
-  latest = "0.2.7";
+  latest = "0.2.8";
   versions = {
+    "0.2.8" = "sha256-KoE3I8Q6vEeuACIAjmgaYIlI14zdXE9kDtB6/bu7N6M=";
     "0.2.7" = "sha256-xfNQk4hA0SHfQmxeZ72qq3mSCYcKUQz7avFLwYlrEhk=";
     "0.2.6" = "sha256-Ep2XGrpBv7z+mYC7y9PPQcFiGEcA7ughSaKYN/LQjMw=";
     "0.2.5" = "sha256-XCguBawCSJyydPui17AZqvVgNVY626TklJDeszgOErw=";

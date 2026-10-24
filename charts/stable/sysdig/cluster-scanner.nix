@@ -1,8 +1,9 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "cluster-scanner";
-  latest = "0.16.0";
+  latest = "0.16.1";
   versions = {
+    "0.16.1" = "sha256-AWdCjpZeeKClEc3VarsJSAy1zxUbUiHeTQ8FMYK4N4M=";
     "0.16.0" = "sha256-2RliDb47rSUp8DIjh9WCuSCDp67Otqj/HZq1c4iEKW4=";
     "0.15.0" = "sha256-yf/K1CK2zu9Cfqi/5BrIU2on97u9ywqWrcsIPSAIs18=";
     "0.14.3" = "sha256-qhQtr0SCsydNCA4ZNnhecphcllTpqm/HnIzbOlrI9co=";

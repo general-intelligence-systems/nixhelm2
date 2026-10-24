@@ -1,8 +1,9 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "sysdig-stackdriver-bridge";
-  latest = "1.2.1";
+  latest = "1.2.2";
   versions = {
+    "1.2.2" = "sha256-5vNXrdovQkWbctu6kQNkeQRQ0p+0CdG/Q34VYji1P8A=";
     "1.2.1" = "sha256-fsJvpAJ5o56lewr0J9fCYD5VAPR1NwGsrZ/W/T1pdT8=";
     "1.2.0" = "sha256-7cxrSRBdtKXXvNn5okMT2klqdV5VBbsUjWETrua5yFU=";
     "1.1.4" = "sha256-j0ItiHf/w0dafYv5ZUwopocgIX7Zgow3Oueh5ZtgBpY=";

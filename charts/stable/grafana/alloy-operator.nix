@@ -1,8 +1,9 @@
 {
   repo = "https://grafana.github.io/helm-charts";
   chart = "alloy-operator";
-  latest = "0.9.2";
+  latest = "0.9.3";
   versions = {
+    "0.9.3" = "sha256-5Snjp+dj6CubBbLc6dg9LAabazNT5HrTmDP+w8LirZg=";
     "0.9.2" = "sha256-uIy03Efz/EFdT1IjPGebWh/HSeLuDDWKa7w62mlby9M=";
     "0.9.1" = "sha256-4XP4KNsineAiCpGQtTkVtCsDnpmXoEuJY1SVfkw66zI=";
     "0.8.0" = "sha256-pEo+lv1BmnBeqO6kpexvC733k7LJ9wtCpHhlVFDxRbQ=";

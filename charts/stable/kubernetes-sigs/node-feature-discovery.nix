@@ -1,8 +1,9 @@
 {
   repo = "https://kubernetes-sigs.github.io/node-feature-discovery/charts";
   chart = "node-feature-discovery";
-  latest = "0.20.0";
+  latest = "0.20.1";
   versions = {
+    "0.20.1" = "sha256-x+KjjKO/D6yl7HzgmB7rJL8klAd0izWktvCH9ajHrN0=";
     "0.20.0" = "sha256-ItR5qDytbka/8Hsn/1lpN68dl+sxz9hhWhQRYvvGr0w=";
     "0.19.0" = "sha256-npOzYOYWe3gnWQJt5Aup1o1Ew+iwtTtzVZKtSP0zOa0=";
     "0.18.3" = "sha256-DLWb1wRE09Qm/9U/0kKuQzEY1+u50q0y09uZvopSPhY=";

@@ -1,8 +1,11 @@
 {
   repo = "https://windmill-labs.github.io/windmill-helm-charts";
   chart = "windmill";
-  latest = "4.0.292";
+  latest = "4.0.295";
   versions = {
+    "4.0.295" = "sha256-2moOYFiFIcWif5QZUSGE2nZMAleZeBj9EoCQvspPZmc=";
+    "4.0.294" = "sha256-kNTtJWT4gxUGxUmBx95lNBcXxqW2lTO7Zss3AM5xqno=";
+    "4.0.293" = "sha256-itaGxGQARPLgBO23/DcbbIOznv44vrbg3RNd9iwzplI=";
     "4.0.292" = "sha256-q9s1A0pzHpHwsqZGIvIjaQksKH78nxW96BFiYQpz3e4=";
     "4.0.291" = "sha256-zCU0yoGID9igmhL3ayRHsn2hSjM6aJ1xObmNlbyJUqw=";
     "4.0.290" = "sha256-V8uWN/7kG9lc1HclunOvNE+P89M4fiaVt48l9cJ+FsE=";

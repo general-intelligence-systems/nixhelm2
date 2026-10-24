@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-fastly-exporter";
-  latest = "0.14.1";
+  latest = "0.15.0";
   versions = {
+    "0.15.0" = "sha256-7WsT2zZuF+gvGzkhIg7i4WsauD5GSJC28oVRijxSJj4=";
     "0.14.1" = "sha256-LfHygxO2e9S7mBFGyirEmrg5LINZn9M/rkgudts6RD0=";
     "0.14.0" = "sha256-GpL8Ia0HI1GnmLai8Od2iEFLBo4eybpmZ0mhBRiZg6g=";
     "0.13.0" = "sha256-OdWEshUF81IOqYGXBn8OGKGCmi2Z/szYzfFrRXMge74=";

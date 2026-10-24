@@ -1,8 +1,9 @@
 {
   repo = "https://grafana.github.io/helm-charts";
   chart = "alloy";
-  latest = "1.14.2";
+  latest = "1.14.3";
   versions = {
+    "1.14.3" = "sha256-bxTCwF88GwOMYd+OpKJ8e8ufFoHs4nY5SjIcP+S7CLo=";
     "1.14.2" = "sha256-4xadtUocWliw5GgVRWJsL4Kwi6Ad+izwDbZewr/Kc/s=";
     "1.14.1" = "sha256-SzFob2nvHjKAOCyzEaQO21Vez47QSXcOPv5dpw1hTVM=";
     "1.14.0" = "sha256-/cyeYyBoykkAqsSuVP8yAjxMJIfls1J/nZyTQUikXAU=";

@@ -1,8 +1,9 @@
 {
   repo = "https://charts.jetstack.io";
   chart = "cert-manager-csi-driver";
-  latest = "v0.16.0";
+  latest = "v0.16.1";
   versions = {
+    "v0.16.1" = "sha256-bPS8HsM7DAiQqlS+yhQkLezs/sI3FPOtGdUoneuWpqk=";
     "v0.16.0" = "sha256-IufU/FIE5mq4ch7FUtgU1IqyaTVGFkcEfgxPcGsHik0=";
     "v0.15.0" = "sha256-LvAi7ojnAxZ8SkwFJlRp8CrTWjtJL1hxYHiy6Djq9VA=";
     "v0.14.0" = "sha256-R2DZZJeMlsU128F8sjF0aSVlsVgy1Kv3ND879/6OC+c=";

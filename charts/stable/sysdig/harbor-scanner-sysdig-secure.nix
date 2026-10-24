@@ -1,8 +1,9 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "harbor-scanner-sysdig-secure";
-  latest = "0.9.0";
+  latest = "0.9.1";
   versions = {
+    "0.9.1" = "sha256-7vFktySiJAk3uJSJPanxyUsNR1g77+jTOzc3V1yst+E=";
     "0.9.0" = "sha256-oy1+AwvcOAmrVcWSq1wqM31yvYlOuE5dD26sKggnZQ0=";
     "0.8.0" = "sha256-ch/MOSgc75EM6ORSwpwRd386oz6KOivCqQ4WGJSQcnc=";
     "0.5.1" = "sha256-Nf0eQRz6Id36VdlETi5Yap49YjXDo9N0ACWl918Mlz4=";

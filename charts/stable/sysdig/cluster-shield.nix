@@ -1,8 +1,10 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "cluster-shield";
-  latest = "1.26.0";
+  latest = "1.26.4";
   versions = {
+    "1.26.4" = "sha256-eOlTUQ5V7lLGUPeJMGyNXwhbmIzhD3D3Ej0hbIrrATU=";
+    "1.26.3" = "sha256-q8DTehD0dWovSx0CJD9/PXf/2ZAvIt6bvPDF6yof430=";
     "1.26.0" = "sha256-LaKGQuhqT4E3x797V2lg1EMSPy4VnazIwnGFwW29Jac=";
     "1.25.2" = "sha256-PcY+2arMYbU84EH8N6Pb1JEz0FuNBU/IN1VU7PH2Zbk=";
     "1.25.1" = "sha256-wjOiv330sIKnyQC8CQLbkgthHbX3sRHGKaWjvCoIQJc=";

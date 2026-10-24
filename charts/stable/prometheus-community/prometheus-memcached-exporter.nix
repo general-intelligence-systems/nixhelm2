@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-memcached-exporter";
-  latest = "0.6.0";
+  latest = "0.7.0";
   versions = {
+    "0.7.0" = "sha256-zv4G31EfTIm18vJasG8IHS7OclsP+i+dvptHCCixIE4=";
     "0.6.0" = "sha256-nFej+VMpAF4MzLQCTmmMoLApfxmpvltjdpNhCORyS0Y=";
     "0.5.0" = "sha256-KLXu5e72mHBdMSfrXxUTvgX/XO9Nwedfwicd4lWSCJ4=";
     "0.4.5" = "sha256-xpMDB7b7Z3uGM3Jfp/IRoJsAn75m8qYqo8qa/aeGyTE=";

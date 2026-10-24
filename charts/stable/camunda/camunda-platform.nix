@@ -1,8 +1,9 @@
 {
   repo = "https://helm.camunda.io";
   chart = "camunda-platform";
-  latest = "15.2.0";
+  latest = "15.3.0";
   versions = {
+    "15.3.0" = "sha256-9WSfYiI4fNdSI1fu5DWoMpDRGZhmKIDzfltsmNgDQbg=";
     "15.2.0" = "sha256-e3/FJlnHu8kw8B6SPu3WzF77kFD0e+DwYj8nTThl/gM=";
     "15.1.1" = "sha256-+Op4rp8AMhiVjpqBtyW0e+V9+jqESoF4P4Tn1eJYWvI=";
     "15.1.0" = "sha256-X08W8tonqZbhM46HPDRcJeMsxrssU5gM1/+M15RWhxg=";
@@ -12,6 +13,7 @@
     "15.0.0-alpha2" = "sha256-uBHzTzeHH7IeH81UMoI5XUtnQve69mCatvPHGlAdLNc=";
     "15.0.0-alpha1" = "sha256-feX16Q0M0gpclYZHtbFZaXHUZ2XcPRvJQ18hxytRBrM=";
     "15.0.0" = "sha256-sRVimBSe1b3rV+aUu+zCgXPY5uutLLWSAJ/gQe2oTWM=";
+    "14.12.0" = "sha256-oOUqOWgthTMq8+/CP8W+EGbm1qFlBJkVJZCH28/avWg=";
     "14.11.2" = "sha256-pNnf4E9dtMNVaCOi34JRiyfKNO8tIfA1/XK/5ibrk80=";
     "14.11.1" = "sha256-DtABIJxWvSoibblecWNABo7s3W69J74dwjKZPtLOoJc=";
     "14.11.0" = "sha256-WMTk9cqtn5D+ntGbXKrOhO8W2ooTTtlCOPOJz/nyVIY=";
@@ -40,6 +42,7 @@
     "14.0.0-alpha2" = "sha256-BOxJsVDG0luxuiXX3f5pmpqdus6ZOWlDHrFLHFlrkAA=";
     "14.0.0-alpha1" = "sha256-4QaeJTgkMzDXDvGRsOXOaEdCdIaQDXAPF36NNNu0jDk=";
     "14.0.0" = "sha256-gCSbu1Tfy/jF8dmoecJadUJQBOxJ9/DAPTSezk5Xjw8=";
+    "13.14.3" = "sha256-1J+SOiyPq0nFu1RahcBzSsYYsNrR21feqd9ut+veZUk=";
     "13.14.2" = "sha256-mdxqh9gXlRHRK1brsgeF/AI0axq3Y4NsljGjk5kPuEw=";
     "13.14.1" = "sha256-XYdaop4Grs1XbJ1tVWt9ADbFG85C4h+Ne3tWKZs0bgI=";
     "13.14.0" = "sha256-k6EJzhUEH+wGYOKG1DlkD/7P+dZvs/xJBYau7c1Dxoc=";
@@ -95,6 +98,7 @@
     "13.0.0-alpha3" = "sha256-W+cv9Rq8LzWDteMgioSF1H3UscaIUPCXTpJz9+Jzsp0=";
     "13.0.0-alpha2" = "sha256-7sZLAaQoUmhyd1juPcgKrHUXhpwzVoYlVJL1lW5vuUs=";
     "13.0.0" = "sha256-yjNtXVa7I8nKJ25AqlNrhEtMiSUbVfp2k0QQehAbvjo=";
+    "12.14.2" = "sha256-BRlrKZK2NTFmiIFta3R9xSkwI8MM/hKiPvnsfuUZCSE=";
     "12.14.1" = "sha256-7begpumQ7hH2SrObejZbUa0NIlCuXo3oUo+DO+xzsx0=";
     "12.14.0" = "sha256-/dzDr9yTD6WXsQQ/itu7XxGLjRQoYtVoA25O2j1lLdw=";
     "12.13.8" = "sha256-OGc+/r5xaocCwb18aMgMuMtmiJ9YqCpWXpgJacltEWY=";

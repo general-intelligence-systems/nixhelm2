@@ -5,6 +5,7 @@
   versions = {
     "2.1.0-rc2" = "sha256-sI/dl+PLUUw7UUSv2kIrxtHfMViMrZwocwbAusAZbTE=";
     "2.1.0-rc1" = "sha256-b/jtSrTLJnrzrFxbqdhSzYeJXHFMnIMsQHU9IunzGQA=";
+    "2.1.0" = "sha256-517Cq2WAwJYBc1MNiquOSvd3P8SK9WXrEytI7HBTSoA=";
     "2.0.4" = "sha256-SZjnYi1Fx88f0pngY+jahu+L4+pSPQt2933a4wRUlbg=";
     "2.0.3" = "sha256-DRDIKyb9FSIXU9TVvBMT4iDC19/fXOs0JhvsKyoImUk=";
     "2.0.2-oss" = "sha256-7ty9SOHUD9BKaNjAPRhTLDc1L8GHAG8dWFLrhMbabGo=";

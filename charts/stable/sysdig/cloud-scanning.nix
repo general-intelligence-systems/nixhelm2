@@ -1,8 +1,9 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "cloud-scanning";
-  latest = "0.4.1";
+  latest = "0.4.2";
   versions = {
+    "0.4.2" = "sha256-haHc5906ptlMW9Tl/eSg7gWw+q8JPuNhLQXbg5Ha2Ug=";
     "0.4.1" = "sha256-GQ2w4tPp6fUYYpFPSRgz6H2WdTRPahsFDg1g63IueUk=";
     "0.4.0" = "sha256-YB3iZLFWkL7r36p254FK83eeZ9T85Pw914fxoxZgrQc=";
     "0.3.3" = "sha256-FOJ47DnCrDi1xCBZh/epxUGECxH4hQJrKDEtK3W17JE=";

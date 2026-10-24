@@ -1,8 +1,9 @@
 {
   repo = "https://charts.sysdig.com";
   chart = "node-analyzer";
-  latest = "1.47.1";
+  latest = "1.47.2";
   versions = {
+    "1.47.2" = "sha256-9rujibbXWebNbzyHFwFWdWjcf7gxQS6uObd799v0vNk=";
     "1.47.1" = "sha256-MTg8zg0yTmCYyU3ER0IgSpA9D5nC1qNADC2VN42Z1tw=";
     "1.47.0" = "sha256-b1/QbtFaj+TNgQfTANSbQNf8v293O6Mkvaj3mRax0kw=";
     "1.46.4" = "sha256-9CdHM5zxOaM99AIQYqS0ikYbOXdZYjnZ/lcqkxglCMk=";
