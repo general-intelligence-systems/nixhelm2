@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-json-exporter";
-  latest = "0.20.1";
+  latest = "0.20.2";
   versions = {
+    "0.20.2" = "sha256-4+VXPF2yhrwE2iej+ZkfjuJ40mK6F0UD6MFsRwPwFpM=";
     "0.20.1" = "sha256-KG/v2FTXQYZni9mNRq/QsSg9Sji2OgVr7VcBC8ZBmZI=";
     "0.20.0" = "sha256-DXNw+sexJr8dBE4b545gPxSzYdlq9etFSGapq9rjMGE=";
     "0.19.2" = "sha256-QKnHoZPMr/m5MODJR0G7u2uO0n1d4Vvzu2RAhxQlzMU=";
