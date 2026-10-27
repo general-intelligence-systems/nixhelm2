@@ -1,8 +1,9 @@
 {
   repo = "https://grafana.github.io/helm-charts";
   chart = "mimir-distributed";
-  latest = "6.3.0-weekly.417";
+  latest = "6.3.0-weekly.418";
   versions = {
+    "6.3.0-weekly.418" = "sha256-QghKfl+4+9u5GPU+fu3V889Wlc0q/NEzdFFGI8JGdMA=";
     "6.3.0-weekly.417" = "sha256-eV1ahzAH3OcUneshBZsJUCl0vVEfgrPyN/vefmDcz78=";
     "6.3.0-weekly.415" = "sha256-DX9nxcmtSaHx8GscFwRzm0meUe4u1mC7D04AX/0pals=";
     "6.3.0-weekly.413" = "sha256-LeTKV+qC7Al3/18aZujBPudtfYjIMp+1q243CvDIB2k=";
@@ -11,6 +12,7 @@
     "6.3.0-weekly.410" = "sha256-ZhjyQ7RC7KdHviCH5SHdvihLBw7h95a/tCZM5zDweUk=";
     "6.3.0-weekly.409" = "sha256-63zJGEPow9QfPyDefOaIuiIqhLPJoziRtcAA7GxFhOc=";
     "6.3.0-weekly.408" = "sha256-kQhMJfeVZRq625mfDxZ1liMzkT6mWAd08zQjyPUE43g=";
+    "6.2.2" = "sha256-G99yGF1C7cSmhYkkcBHLjCbc3pKPOHjgfWYxho0VGlI=";
     "6.2.1" = "sha256-IK1yotNlrch2QYqDVyDwoOin3p0mrNExDRIsm5wF6p8=";
     "6.2.0-weekly.407" = "sha256-dCvsd6hQPphFP7C15jB/1WPd4pVOHic/MoGrxhOyfUo=";
     "6.2.0-weekly.406" = "sha256-5V05GRobSav3EUr4JlKGB6qAR+kJ9Oj5wo4TxN87s8k=";
@@ -18,6 +20,7 @@
     "6.2.0-weekly.401" = "sha256-5k4IlXheVdc6O3/Gr+BisP4bFdBsADvxW3T9VqjMEhc=";
     "6.2.0-rc.0" = "sha256-MjORQt1Bg8f7oT2FcjdV8em0jvIIMuPgChQ51NKSEqg=";
     "6.2.0" = "sha256-bvf9acZqgAbiNGQI/u9IxH7IbFZ14fHvCiy1EWNIy8Y=";
+    "6.1.1" = "sha256-RjPctcqROlW1J1EjDuGnj3RBCmIlHMSmhYElN0i9BE8=";
     "6.1.0-weekly.400" = "sha256-xnC+RFhUXOX7w922cPdxL0jUY6UCqmx9xdg1UAJCg3k=";
     "6.1.0-weekly.399" = "sha256-HrngWZH6zx6SuWRDb2zxUtB30y26Mxb2q6P5obFP5Lk=";
     "6.1.0-weekly.398" = "sha256-6Od8uXZ+EnVyt/3raJsstzA+Nei2rvj04eQl2HYMHvQ=";
