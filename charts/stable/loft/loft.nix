@@ -5,6 +5,7 @@
   versions = {
     "v3.4.7-rc.4" = "sha256-1udjEZCcXvKn7KXksIuTlGE43BRZlETSnK8NEJvjVV4=";
     "v3.4.7-rc.1" = "sha256-tMPWULU7jOcpAMYGGPLXei2z4M9fEqIkQF7JUeHgwns=";
+    "5.0.0-alpha.9" = "sha256-9VMY81khK3ruXdL4k9ryP+T1hXG7JSIygU4L/uqNtp4=";
     "5.0.0-alpha.8" = "sha256-EsxG0KIxscmHZgJxkfoIIvV9HRK+/om+4Os+CB0Pzgo=";
     "5.0.0-alpha.7" = "sha256-PVNrY0dQlQ3AIQCzR6qJbsH9Pq+EhHE2kITGqR9o/I4=";
     "5.0.0-alpha.6" = "sha256-J/HuzcBecnSp1Awlb4xd9wdTUno/qGT0OBnCUHvO99Y=";

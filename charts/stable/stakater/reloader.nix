@@ -137,6 +137,7 @@
     "3.0.0-beta.3" = "sha256-JoRWktBin8lGVjbz5e7x4kbQpy3XD3rwxfXuRsRl0Uk=";
     "3.0.0-beta.2" = "sha256-BtjNVhE+l1ULOCl2kxV3d7CKyzb2fhOjWjaQqw4NEiM=";
     "3.0.0-beta.1" = "sha256-5kQ4PQpWhuTHL/zb8vqZS9hRh1n24/gHDYVCNcJiaFg=";
+    "2.2.19" = "sha256-WsE0QL1szv+UZPYuS4NjdLiL4SB2vNMdo03JvNNFwLU=";
     "2.2.18" = "sha256-XrRXa6daDhZYl+ipim/+8V1ok5Qw2m64/oB5a7p1yxc=";
     "2.2.17" = "sha256-oX7pHWZ4XCnBfl39A4wTsONbIzAbM/j9tDG0A9inoHE=";
     "2.2.16" = "sha256-U4n7SWoSDWqsjyszxUuiHtWQFBMd7xTPx4+dSpN00rc=";
