@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-cloudwatch-exporter";
-  latest = "0.28.2";
+  latest = "0.29.0";
   versions = {
+    "0.29.0" = "sha256-C674e1gKq5/ywjlR3sc/E4cXNuAX1GWZGFbyC67NH3M=";
     "0.28.2" = "sha256-LAvnJROdHJDcaZc9O/quDBzQg4C0Fl9B2U6QLA7QkeY=";
     "0.28.1" = "sha256-CAkrLuRmxiYRgoFRLaOxRyBhcq6nK1ggPmp+qjGspjE=";
     "0.28.0" = "sha256-aory9TjHg4maFYNCkolxl8z2Lak91+tppKMGJ6ds6OY=";

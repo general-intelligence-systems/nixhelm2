@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-elasticsearch-exporter";
-  latest = "7.4.0";
+  latest = "7.4.1";
   versions = {
+    "7.4.1" = "sha256-EKAs+Y2V55jHBzELDMY3KI9U8chKRFC4NszwO/yqvEI=";
     "7.4.0" = "sha256-AlyWwe8XrYd3QCAgRC0h1ofKpMv2+sCejhIjlOKYf1U=";
     "7.3.0" = "sha256-Kicw7TP1aiOmMaZSl6uTBFZqwbFKgwivxY9TmkT2Aqo=";
     "7.2.1" = "sha256-9bOHSeJoYM7A69Wivww8dQPto0Rvq6C5jRdRtRbIvDg=";
