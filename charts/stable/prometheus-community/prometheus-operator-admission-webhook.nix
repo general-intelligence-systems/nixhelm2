@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-operator-admission-webhook";
-  latest = "0.46.1";
+  latest = "0.46.2";
   versions = {
+    "0.46.2" = "sha256-qe1gLv245rBTWjqTJAPFAatLTtXhwJm7c5ykBkflTr8=";
     "0.46.1" = "sha256-iJ/SeIqfP3v7XcWcYj9UxIE6PpIhVRGKdWc6J6acjac=";
     "0.46.0" = "sha256-5I0nHqLDlS9VQ29fn6LqsUQqd9Uf0EZYa/B8ixKFFq4=";
     "0.45.0" = "sha256-jgi4lTST3X6YuOA8RVXJGOpb06NtlzvIIFS3eEH694A=";

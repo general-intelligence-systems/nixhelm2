@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "joplin-server";
-  latest = "6.0.0";
+  latest = "6.0.1";
   versions = {
+    "6.0.1" = "sha256-ELnoLbtk5IDz5aQMyawza3nT+JQaQwGSyJhUgAoS5M0=";
     "6.0.0" = "sha256-LsLaFPwANkEI7PWhyJsDAfKc0yre8gaGoPnrisWG3fg=";
     "5.5.8" = "sha256-Ao3lvX6pXdGChohiMxgTnpmn8D3J3HSos0WQNCys46g=";
     "5.5.7" = "sha256-QJykxjCFwdTuuQfge1HN/FgfHt6jqPk5DxCCKgrhQ4Q=";
