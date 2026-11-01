@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "uptime-kuma";
-  latest = "1.5.18";
+  latest = "99.99.99";
   versions = {
+    "99.99.99" = "sha256-qHjmfosSqTagYXWSvTGjaAHt3+9ZLPcQui9Oib+0fLA=";
     "1.5.18" = "sha256-g3NemzZTmLOA5/Nw7K5fol7H9c2YYRIhjEfAPcmADP4=";
     "1.5.17" = "sha256-KssbussQRmzi32gWlMA4dMRhlFLj2GvM2mCan8CguZ8=";
     "1.5.16" = "sha256-Oe0xoaPPZoQQ18fp8ffpSghNA7xNKYDLHj+U1ZUrY+E=";

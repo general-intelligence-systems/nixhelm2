@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "openssh-server";
-  latest = "0.1.14";
+  latest = "99.99.99";
   versions = {
+    "99.99.99" = "sha256-+S0vGmNbq19BQvsz7O8Mc6S6Z6VvzsjVuwC2E7NJVEI=";
     "0.1.14" = "sha256-EfoyYQuidehE3hvp3fuBC4nfBksTiAqD0FiWkodVYAA=";
     "0.1.13" = "sha256-QsQ9BjJafAuzshzEHUcRNadC0iYsgr/2/zvIBkkBrLs=";
     "0.1.12" = "sha256-9m5kvYs+32ZGzNxpok89dHkb7dDRRUV/yRkJWW522p8=";

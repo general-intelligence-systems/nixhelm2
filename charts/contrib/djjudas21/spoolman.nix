@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "spoolman";
-  latest = "0.1.8";
+  latest = "99.99.99";
   versions = {
+    "99.99.99" = "sha256-bNIOj2pCYQUl9LJ8kzN4V5s0x7XV2hiUP0Ue3fSk2ls=";
     "0.1.8" = "sha256-KVZ5JDSqIjRstXMyTVTZlrT774pO78aAuHBidZkURg8=";
     "0.1.7" = "sha256-gZCh8DO6DuKMSrKTALWiSGp2zHpptOojJZx4I/UQE3o=";
     "0.1.6" = "sha256-l/4BrJIiAHTEQDCV+EPwcqtZRqSB8m4OmosExbLwXK8=";
