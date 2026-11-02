@@ -180,6 +180,7 @@
     "v0.4.0-0a52e53" = "sha256-P2gSrEHdOQzxgd0gIaS4krYcXFKMmkaynBy4eVLiry0=";
     "v0.4" = "sha256-D19c8nnCAUfVlLSDaYYu+IhmE7FfOSVK9EHdAwGMFUA=";
     "v0.3.1" = "sha256-N8JH137NQyCP2H6OBMRN49T/z+5VjTi9396TktsuS4I=";
+    "5.0.0-0.dev.git.7582.h75469c64" = "sha256-Ckdyz4jtRaje4KzrllNSwhcDwHRs6y6IlilWJP5wTmc=";
     "5.0.0-0.dev.git.7580.h0a5c7737" = "sha256-EN+2cJM2iAdl8T18mDcUu2aHRLlzLlGzhe/hrHmiAFQ=";
     "5.0.0-0.dev.git.7578.h3708f650" = "sha256-bcwow09A3iNsup6E96ATggyIX2+Wnnr9DnQVNryaa8A=";
     "5.0.0-0.dev.git.7576.h6b15c0f2" = "sha256-s6OvA6WF9MYaQMy1LLb6u6+QV5sdITxMCkNJk6EkWhY=";
