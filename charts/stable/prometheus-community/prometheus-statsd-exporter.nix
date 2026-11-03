@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-statsd-exporter";
-  latest = "1.0.0";
+  latest = "1.1.0";
   versions = {
+    "1.1.0" = "sha256-WDsmvGAFSnm/6pcC9e6h4etqPeWwJr4gmUPKIuyypgI=";
     "1.0.0" = "sha256-Rp6x1GRtn7/7vfITxcsaagIoIEz+9c/PnwtuEDv970U=";
     "0.15.1" = "sha256-2S9hbrjd47t1+dGjkoD1SRoCC26ZVBMv7PuyOwt1rR0=";
     "0.15.0" = "sha256-u+MJCC+jKIKYR36/sAb8IPqEq3RJrqZ8dDJ1pqHdHYs=";

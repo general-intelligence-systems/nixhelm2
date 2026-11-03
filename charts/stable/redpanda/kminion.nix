@@ -1,8 +1,9 @@
 {
   repo = "https://charts.redpanda.com";
   chart = "kminion";
-  latest = "0.16.0";
+  latest = "0.16.1";
   versions = {
+    "0.16.1" = "sha256-hdLqmUkZ0q4zpKrFm1JHMvJsYocvPg3Ono36gS8tRHw=";
     "0.16.0" = "sha256-ppQVQ2bM1NLXwnCC+vXpRfUL2xZCR/PcsWcxh3dNGmg=";
     "0.15.4" = "sha256-HecoAzoumVL/JLKxBjthis5B6YLXTO7HW7M+E2lPxKc=";
     "0.15.3" = "sha256-OGxTunj1dbkXVLtwmXcpN/RJZ/tx/nKwn8TWPgcNulU=";

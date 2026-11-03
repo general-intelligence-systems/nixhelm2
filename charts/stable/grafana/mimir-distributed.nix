@@ -1,8 +1,9 @@
 {
   repo = "https://grafana.github.io/helm-charts";
   chart = "mimir-distributed";
-  latest = "6.3.0-weekly.418";
+  latest = "6.3.0-weekly.419";
   versions = {
+    "6.3.0-weekly.419" = "sha256-sVVp4478bOGwQlvlr8AWNXOxCtyHEm2q39cUfN/FEko=";
     "6.3.0-weekly.418" = "sha256-QghKfl+4+9u5GPU+fu3V889Wlc0q/NEzdFFGI8JGdMA=";
     "6.3.0-weekly.417" = "sha256-eV1ahzAH3OcUneshBZsJUCl0vVEfgrPyN/vefmDcz78=";
     "6.3.0-weekly.415" = "sha256-DX9nxcmtSaHx8GscFwRzm0meUe4u1mC7D04AX/0pals=";
