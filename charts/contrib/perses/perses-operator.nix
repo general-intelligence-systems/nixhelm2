@@ -1,8 +1,9 @@
 {
   repo = "https://perses.github.io/helm-charts";
   chart = "perses-operator";
-  latest = "0.5.0";
+  latest = "0.6.0";
   versions = {
+    "0.6.0" = "sha256-E8+1U26SsFlrXRae8rT7nt0k5s4BHQUsJbqRXlrsuRA=";
     "0.5.0" = "sha256-YWZ7WE+orF2xPvi2Cn0SXRJwBfuhQozoAfv0eiQ8z0k=";
     "0.4.0" = "sha256-d+YZ3m28+ZkTUeWm1Mrw9+WgcNvh5pipDEC9YybbRxw=";
     "0.2.1" = "sha256-weO6GN7xafyJN21j0TVS7giOsl4e+IpUbk6bbiPlVjc=";
