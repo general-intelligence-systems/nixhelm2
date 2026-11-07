@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-rabbitmq-exporter";
-  latest = "2.1.2";
+  latest = "2.1.3";
   versions = {
+    "2.1.3" = "sha256-GmKAfO62ZVE5C+HGLKc1JDqF7taWeWp1z2P482z1CQY=";
     "2.1.2" = "sha256-4jrQ0oblltkyV1cVZv7KZEuIKW8QSaJv2I1pI5U90fo=";
     "2.1.1" = "sha256-4rSzJUydF5B29sK1QDW/RPHuKzfDSopyht45A0POHBQ=";
     "2.1.0" = "sha256-+7XinetxnqhyFNL6C3SWMq+lFk6Hpg24ObIhvccyk80=";

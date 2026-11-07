@@ -1,8 +1,9 @@
 {
   repo = "oci://registry-1.docker.io/envoyproxy";
   chart = "gateway-helm";
-  latest = "v1.9.3";
+  latest = "v1.10.0";
   versions = {
+    "v1.10.0" = "sha256-D3LJBQwz26qzm4ZejLXtd/JjcgsiNo7aTOaHB3ZJ5lk=";
     "v1.9.3" = "sha256-GhUlE6282wUn17vj6psJCr64fk7J80ssGKyMN/MXdUE=";
     "v1.9.2" = "sha256-EHnK0AngiF9uEOX3EiV9jl/a+RHSzrP6G3hjLI8pu/k=";
     "v1.9.1" = "sha256-aM50lh7rX8XjlWKNa77ZMFqFs0YZvX7hewEYfxAbuMU=";
@@ -69,6 +70,7 @@
     "v0.6.0" = "sha256-67Qpmt7PECZhxUcLS4P5zb9gXU3uxItbYLoGlyT/E/8=";
     "v0.5.0" = "sha256-WoYaEfnVcXsg9OY6cS1uijLON2CUCAmxVeL8cPQQtDk=";
     "v0.4.0" = "sha256-QAqBlTR56MCC6IjK3vXKeA0k/6Wgn4aOAF1O8hiroBE=";
+    "1.10.0" = "sha256-95udSMlC2Zh1WOUTBMF5zthJMAXkUnyHOw2Tc1kwqJQ=";
     "1.9.3" = "sha256-HFFZUcwKZSo9NkaoaGLG6XpjJt+yOH2M8OpDjxbFax0=";
     "1.9.2" = "sha256-+UxeWpHs6U0eNdlY+SrnVQofa8615ozvQvL1vCVqOXc=";
     "1.9.1" = "sha256-m1Jc7NovpYDU29UvT8aAqIEzUTOaTROAL4dZJ/ThNMY=";
