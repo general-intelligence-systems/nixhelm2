@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prometheus-smartctl-exporter";
-  latest = "0.19.0";
+  latest = "0.19.1";
   versions = {
+    "0.19.1" = "sha256-2tQd3EEq5MO0pBViLjqm/0q6nEoQpLDg6OfJ768Wz2Y=";
     "0.19.0" = "sha256-pp89HKk0TH42cVwnSSDIpIAzakp7hgbjf5txGwL30UQ=";
     "0.18.0" = "sha256-hboa88ZYNIvv0fY8JxLN1IXNrEHrey0ie6z0FWC1ZO0=";
     "0.17.1" = "sha256-ywPsSsxJQBmW4EezOTnJqiBeKivmczCdeDTuZDAbJvM=";
