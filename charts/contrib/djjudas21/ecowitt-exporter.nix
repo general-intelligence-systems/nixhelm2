@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "ecowitt-exporter";
-  latest = "2.2.4";
+  latest = "2.2.5";
   versions = {
+    "2.2.5" = "sha256-Kslt45qdeYidS8EuWi5NXXrmAAXcT5qCSz5VQV68g/Y=";
     "2.2.4" = "sha256-ENKPhaAe2jk0jBTID5KPkZjMLx5el2AE3mUygc6FXAc=";
     "2.2.3" = "sha256-wr7pXkSCrU/OKyMOWySVVfEeYc2U8/ojlcpPmZep+yw=";
     "2.2.2" = "sha256-CgqJKBW0Ww4O6Xa6cT15C5GYt1NRoBRU+zNFcv7GR3s=";

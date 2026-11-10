@@ -1,8 +1,9 @@
 {
   repo = "https://clastix.github.io/charts";
   chart = "capi-kamaji-vsphere";
-  latest = "0.2.9";
+  latest = "0.3.0";
   versions = {
+    "0.3.0" = "sha256-a0xb4Vo5aGzSE7a+NW+9/pBly2LXHtjV0+nUylbK6Mo=";
     "0.2.9" = "sha256-Umu++2KWs4eXfWKcIu1t1IgJJGoPun2FpY5cH9uPFO0=";
     "0.2.8" = "sha256-CAQ3JbMpQc4Qlbe3PX1C5/AMCrhTO8Ocr8rQkrDx+JY=";
     "0.2.7" = "sha256-CsL8yqZfkdwx+Nw6kt7j9dK0x9Nb8HFxGULkSQkvGe4=";

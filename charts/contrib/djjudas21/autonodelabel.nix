@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "autonodelabel";
-  latest = "0.0.11";
+  latest = "0.0.12";
   versions = {
+    "0.0.12" = "sha256-iD4UwsWgQe88PjlsGRCVNyry4zVg0CeA/xOaSXTpQzw=";
     "0.0.11" = "sha256-1IophffPIw4CokGa/Y/BedY1Gk03b1BIKwMK/1r1ErE=";
     "0.0.10" = "sha256-s4x5XA9war0zZml8yyD/TDHQUZJxpykqF2fwicXx30A=";
     "0.0.8" = "sha256-6w3QcB3k1zoGIqgmZqSawkNxaFl8LfsFWL0tr3/Ttfk=";

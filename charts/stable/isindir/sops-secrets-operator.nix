@@ -1,8 +1,9 @@
 {
   repo = "https://isindir.github.io/sops-secrets-operator";
   chart = "sops-secrets-operator";
-  latest = "0.29.1";
+  latest = "0.29.2";
   versions = {
+    "0.29.2" = "sha256-sL6tCXJcJg9Xou4j6KOEECGdWhW5iiveHD83jxMZItc=";
     "0.29.1" = "sha256-tvf8vupdcqEwcPU6bdWUaYpKyveCCxFDk2iU3o1SDE4=";
     "0.29.0" = "sha256-MUDO3y3lXP3ogXCgtVIdwcvZIURXSOSpFPrHa2HPVD8=";
     "0.28.1" = "sha256-QUZmOFS7VqeWTC521DEFHEFC8sW969V814CT6Mk0aAw=";

@@ -1,8 +1,9 @@
 {
   repo = "oci://oci.trueforge.org/truecharts";
   chart = "sourcegraph";
-  latest = "11.1.2";
+  latest = "11.1.4";
   versions = {
+    "11.1.4" = "sha256-tkdPnmlr+2E1QC56JyRWk84RECE8ssdkKpxTvunBuog=";
     "11.1.2" = "sha256-LDmcOABS8DM83BEgIavvIBA7GxEIJUM7+rweSU62Sug=";
     "11.1.0" = "sha256-eZGO3/fbkKK/QDrEYqr64VYQpiNk9zfknT4BpyTqHak=";
     "11.0.4" = "sha256-TtvEV1ungbuD9ysaaoebOeTKZMtACHb8jbH4kLFEnzo=";
