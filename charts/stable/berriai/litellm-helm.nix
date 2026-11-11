@@ -1,13 +1,16 @@
 {
   repo = "oci://docker.litellm.ai/berriai";
   chart = "litellm-helm";
-  latest = "1.108.4";
+  latest = "1.109.0";
   versions = {
+    "1.109.0" = "sha256-zM9sHA7GEfb8HRUa67rdw9Yyohp3Iij4U8sYpMAgPr8=";
+    "1.108.5" = "sha256-NZGkLdLVXHdODA0iN3LcT6RyycDag0uBAviUvrJ79pg=";
     "1.108.4" = "sha256-ncxKTeyBFB5WdwF8Voz/xtHCCAoXdTYoYZj7TNKRn8A=";
     "1.108.3" = "sha256-npvp4OGWLNUnwSbblW3GimaFQ5RZfyjReBz4bOuSJ+E=";
     "1.108.2" = "sha256-GjeGbX+5o1CqeodVygdgkJOR5Ng4HD+7FgO0o6eI0QI=";
     "1.108.1" = "sha256-e4bvmutsHJGWjzFHzdNk7Y6x38Pvly2V/LcyAfwB+jA=";
     "1.108.0" = "sha256-twoue1NUP2Vz091vLIbk+A0EJgNSmWAdFKWog5ykDS8=";
+    "1.106.8" = "sha256-IAIjomCzF/VR64qsOy3TmN/1w9ajZPgMmQOwzZYzE+A=";
     "1.106.7" = "sha256-hw0OhJvZB5Uurs1xSGRSx33dK7sm01JImdIRCwmIsG8=";
     "1.106.6" = "sha256-gDhy0+5EXInDTkjAuLlIOTwewNgeEFWTCNnFk1lCDzQ=";
     "1.106.5" = "sha256-GSocamw9V1DMnULC5326BgNA8OrKxgJNk3UQy955SqE=";
@@ -24,6 +27,7 @@
     "1.105.2" = "sha256-7UGN4xTXb3c7zCSq4NQPT8LyrQUpxycldu/dmwZsbDU=";
     "1.105.1" = "sha256-tnMF3nUG51zeDyM87CVsg2G9mndpuzZbA838t4vNSK0=";
     "1.105.0" = "sha256-JiY2JaARS+pUd7/lj2YER3ENcX80m40J5kwJuTDJ5FE=";
+    "1.104.9" = "sha256-kWypVQzncH6srCZtrndcPKR7BsY5EDGoPNaoWBMnIVM=";
     "1.104.8" = "sha256-AL/4EkifN5R+flOnslwlnG2waoYXQuI25k8R6O8ETh0=";
     "1.104.7" = "sha256-LEhdYiixCxScL+4PGVzQlQW76fIZDzbYjK2t7Lp8UMw=";
     "1.104.6" = "sha256-Cie9F7MqnyXUFNCXtX4p9QXYenOmEP3P07+eoCN5IRU=";
@@ -33,6 +37,7 @@
     "1.104.2" = "sha256-E4QV4fTUqHRtD1FSqK/pHxr+g5kVMH4Hc0mnZo5IwWU=";
     "1.104.1" = "sha256-FC1XwPDocppLK/Il1LE8iT4SVInU+rvGxEWxJjD7/fE=";
     "1.104.0" = "sha256-VrMdmJ+aJj/TmSICmWNJ4h0qM6qjdEn0EMTUuaRWX3Q=";
+    "1.103.11" = "sha256-Cj3b4lsBbdrCMtsvOT8i0jOwknbcabijE1YLUZ3MAs4=";
     "1.103.10" = "sha256-t3fLOvuARz9kzGp7nEwD5p+6vXikVa5Iq+b85rwblEg=";
     "1.103.9" = "sha256-QJrJUxf467PuxEX4tqLZRxfIHdyrZGO9qKUBr5wzH7Q=";
     "1.103.8" = "sha256-ngM0yka8olyh0MLWHLa3AKZ79oJ6SFg6wmY8MVgS3T8=";

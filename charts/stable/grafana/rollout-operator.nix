@@ -1,8 +1,9 @@
 {
   repo = "https://grafana.github.io/helm-charts";
   chart = "rollout-operator";
-  latest = "0.53.1";
+  latest = "0.54.0";
   versions = {
+    "0.54.0" = "sha256-Tq826MIc5hriX2oJE79nu2hr6inMkWwwvcJZqA0RVgw=";
     "0.53.1" = "sha256-Q/6RCyZBkXSozGjg3S5Lyec25dDWrUtlDlAmg4LXMvw=";
     "0.53.0" = "sha256-G/8gthXGhDXn+hCWm1syrBf9W3Pu2stadVcIM+A5ag0=";
     "0.52.0" = "sha256-8v73TmJymUhEbOarym03Yu+R3M8ciniSd7UpKi1v0jI=";
