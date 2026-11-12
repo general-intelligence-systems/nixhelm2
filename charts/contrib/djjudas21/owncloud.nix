@@ -1,8 +1,9 @@
 {
   repo = "https://djjudas21.github.io/charts";
   chart = "owncloud";
-  latest = "0.3.27";
+  latest = "0.3.28";
   versions = {
+    "0.3.28" = "sha256-cjhngAwC2iBh2IFk5mK9C3g5CVh1m2giIkU0MkhZmiw=";
     "0.3.27" = "sha256-T7fEQazDe+9FKeDt+FsZhqgH/+rSLlKmWlKDdvLi6/g=";
     "0.3.26" = "sha256-21arwu3ksjU+7JtwAJmL0ZIZ9KU4ZWVYMzRA8nWEmb8=";
     "0.3.25" = "sha256-EmN4mGnv2wSuv99dVvHZSJeHPEeEeHrgccbuWkkbpLE=";
