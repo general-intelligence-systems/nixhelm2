@@ -1,8 +1,9 @@
 {
   repo = "https://helm.releases.hashicorp.com";
   chart = "boundary-controller";
-  latest = "0.2.0-beta";
+  latest = "0.2.1";
   versions = {
+    "0.2.1" = "sha256-hSZaYSjZYgqQLAjHu04J8eLV1b/7xVXK9Ol8hpZUbzQ=";
     "0.2.0-beta" = "sha256-IbxQKk7URwzCYpd8hKvamcdfZWMM5MCKsd4pMP5EGyY=";
     "0.2.0" = "sha256-PrgoZL5FyEp5OJBubfbpJJ4LxJMGuyHLsCQrJEmcUgk=";
     "0.1.1" = "sha256-HjB7PmKWf8sX5G4+eYmKStft2kjA7uBeMQKVa7kYTjw=";

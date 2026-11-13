@@ -1,8 +1,9 @@
 {
   repo = "https://prometheus-community.github.io/helm-charts";
   chart = "prom-label-proxy";
-  latest = "0.25.0";
+  latest = "0.25.1";
   versions = {
+    "0.25.1" = "sha256-sDW+xv/JHpaLlmrfQ+j8+g4XrSvcZ6jFZUCYk7MXmHI=";
     "0.25.0" = "sha256-TuYt2zhuXTZebqf4t5udhztaOq4xBRqBCYc5T70LpZ4=";
     "0.24.3" = "sha256-CIwoID05L98TpUPMGvRUoqNo3IC7sZjI2QVC2HTnEv0=";
     "0.24.2" = "sha256-gvjod+vNRsSK8zIn5UkF159E29JvcuTrMc0yqdfY23E=";
