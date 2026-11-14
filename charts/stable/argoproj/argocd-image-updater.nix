@@ -1,8 +1,9 @@
 {
   repo = "https://argoproj.github.io/argo-helm";
   chart = "argocd-image-updater";
-  latest = "1.4.2";
+  latest = "1.5.0";
   versions = {
+    "1.5.0" = "sha256-s25aSjMHwsUftEUK5ZeyiUMPTQGlBwWeH2bugYXLUxg=";
     "1.4.2" = "sha256-1XIP944dzOffUkWjcXs++PeF+hfzcM5AT1zl/47ewNU=";
     "1.4.1" = "sha256-AtS/K11tnsXwc1z9h8Du3TkPV1j0mwJJEq0P4jS2+Dw=";
     "1.4.0" = "sha256-JdHCMgfNZdaFlFZ6OyfeKBikxp8lf0P5WtEzK2Yqt1U=";

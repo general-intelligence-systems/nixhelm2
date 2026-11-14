@@ -1,8 +1,9 @@
 {
   repo = "https://grafana.github.io/helm-charts";
   chart = "synthetic-monitoring-agent";
-  latest = "1.2.1";
+  latest = "2.0.0";
   versions = {
+    "2.0.0" = "sha256-jJxPQ78PmBi0ENpx7YnNQhylujmLY+mFO2Qmd9tV/4w=";
     "1.2.1" = "sha256-3pRsgQFyfuI0z4oaGbuJ0H1Si6D2cF1CJLzAeq3UPS0=";
     "1.2.0" = "sha256-pALXpAxLYVOgJReFx3aO0p22qaFhjEv0IOMFizf8DjA=";
     "1.1.1" = "sha256-ynp+rZ/SNNDTVhLKiHb4GlDn0A7zEPPdui+EmA7L22U=";

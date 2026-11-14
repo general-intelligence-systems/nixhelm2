@@ -1,8 +1,11 @@
 {
   repo = "https://mojo2600.github.io/pihole-kubernetes";
   chart = "pihole";
-  latest = "2.39.0";
+  latest = "3.0.0-rc.3";
   versions = {
+    "3.0.0-rc.3" = "sha256-njdcxQ/y8/UqWKxU1PA15/RrYa91tNOHO2bQR3WT2c4=";
+    "3.0.0-rc.2" = "sha256-zaROqqeoCPHetrx6rGXP+LalKnxFWHM9sxatVeHG0h0=";
+    "3.0.0-rc.1" = "sha256-gn0d3TLP8WvDzSc19nzRNLK/H+s5s4QC1An8V6Iq9RQ=";
     "2.39.0" = "sha256-MZldFWsqPOMrFeqtdvVjLAwOma5D/id3YRhL5We+Dww=";
     "2.38.0" = "sha256-9TiwnlQJXs/Fejm1n+pf3TjzuZlwD0Uh8OfyW8Mhc0Y=";
     "2.37.0" = "sha256-igK6VQIkmapRTgmG1OcLYoGqUQOD6aemUiaSLWzRIrQ=";
