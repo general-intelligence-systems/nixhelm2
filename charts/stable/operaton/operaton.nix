@@ -1,8 +1,9 @@
 {
   repo = "https://operaton.github.io/operaton-helm";
   chart = "operaton";
-  latest = "1.2.0";
+  latest = "1.2.1";
   versions = {
+    "1.2.1" = "sha256-0p1EreGGpRnQu05e5445AnncvHKEymye7qESxbKWH80=";
     "1.2.0" = "sha256-yau8eA9Qf0Qz0Uon070CIUXpeZQuHsMsJMw1jBt+nzk=";
     "1.1.1" = "sha256-Sj32CFT3K+9ox41TPaUHQdhrjb03p8vMHSjrqibScV4=";
     "1.1.0" = "sha256-+8pNZYd+m7iqV/SFTAeWOp9f0uxuDQJdkFA243Y2HJk=";

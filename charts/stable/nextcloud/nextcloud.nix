@@ -1,8 +1,9 @@
 {
   repo = "https://nextcloud.github.io/helm";
   chart = "nextcloud";
-  latest = "9.4.4";
+  latest = "9.4.5";
   versions = {
+    "9.4.5" = "sha256-SFjIv4lh8zSuDpp257woGhwxUMoz/iRIc7IomSewqNM=";
     "9.4.4" = "sha256-JPQPY/XOTbbRFzKO6nwPktNIjV5ZuFI5n9+nQKfEftI=";
     "9.4.3" = "sha256-9wYp5/Jz9nbGnQNRuodQWMOwIe6RxcvGJELw4kGZ1rs=";
     "9.4.2" = "sha256-4DGm4zvwvMHz2vEEJw2lvx5IuOc7J7MpvFpSzSnzqwQ=";
