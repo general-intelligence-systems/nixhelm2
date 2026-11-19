@@ -1,9 +1,11 @@
 {
   repo = "oci://docker.litellm.ai/berriai";
   chart = "litellm-helm";
-  latest = "1.110.0";
+  latest = "1.110.1";
   versions = {
+    "1.110.1" = "sha256-lQCngXzp0YCjfv8pVSCeILT16jkY8Xj0y9kLPyXD0PY=";
     "1.110.0" = "sha256-9ppP78rHB0jeCN0zxjSi72rTqRMENcGCyLsbB9JMyt0=";
+    "1.109.2" = "sha256-aq31GZbVfNw8Z/zGcMD8WuKrdZEBJSU6vPe51dsANVg=";
     "1.109.1" = "sha256-HHJRi6p/Xf3RJATfjAcnLGJ/zHt3wySXsYzxTrGKIq4=";
     "1.109.0" = "sha256-zM9sHA7GEfb8HRUa67rdw9Yyohp3Iij4U8sYpMAgPr8=";
     "1.108.11" = "sha256-nN5eIRMKpANkupQB03gz6Uk6LZyPzUIgh2Ol3K0qcdY=";

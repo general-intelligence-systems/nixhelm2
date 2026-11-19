@@ -1,8 +1,9 @@
 {
   repo = "https://charts.crossplane.io/stable";
   chart = "crossplane";
-  latest = "2.4.3";
+  latest = "2.5.0-rc.1";
   versions = {
+    "2.5.0-rc.1" = "sha256-XkXOKIhhixVOifPpeSTeOcnVG7NdpWGo01MI6so7g34=";
     "2.4.3" = "sha256-7qznfNx+cnqEAMt6Ip4pDU0o3XMLRAobBvtt9Fac0zw=";
     "2.4.2" = "sha256-6XY1i2sTW+bP1ywIpH60YLGmOZ7zhbfDSDVZUznNH/8=";
     "2.4.1" = "sha256-+r4sgsF9PgICQEkUGt/y2jE6Q5tMZ5w50Y9pOTvC5r0=";

@@ -1,8 +1,9 @@
 {
   repo = "https://clickhouse.github.io/ClickStack-helm-charts";
   chart = "clickstack";
-  latest = "3.6.0";
+  latest = "3.7.0";
   versions = {
+    "3.7.0" = "sha256-KJxJJ1Fw3tR264LPfJvDhUqHWJW0HHwWg7pdG66YbVY=";
     "3.6.0" = "sha256-ESdZQyyJmVC9nOdYMWS4Fvhe3FmN4rB2UOXDCFrcYgU=";
     "3.5.0" = "sha256-qKeBz4+wwnI1HDna8BztfbhXaerNb5L8GIl7hfRRUTo=";
     "3.4.0" = "sha256-xBvHL1DR2kgNzjiKQ3WKQc+1coKY/wU+cylz03ktBZc=";

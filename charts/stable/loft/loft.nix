@@ -5,6 +5,8 @@
   versions = {
     "v3.4.7-rc.4" = "sha256-1udjEZCcXvKn7KXksIuTlGE43BRZlETSnK8NEJvjVV4=";
     "v3.4.7-rc.1" = "sha256-tMPWULU7jOcpAMYGGPLXei2z4M9fEqIkQF7JUeHgwns=";
+    "5.1.0-next.internal.5" = "sha256-VBdm5OuDsafnXL5dTAuC1uOJSpfTiLUhOZfLhIE3th4=";
+    "5.0.0-rc.9" = "sha256-g3vX4x2+NexCPakzvhKcsNAQ2HZhq7wAuItqrz7lBs4=";
     "5.0.0-rc.8" = "sha256-/kLRVJ7GoIexiNYGIBbJWEAwfLkzzf9TdYswPCmziY8=";
     "5.0.0-rc.7" = "sha256-pKJDi8/ZjXlvmmCHieZm4nHUx0CbaO0r/G/Z1lmbesk=";
     "5.0.0-rc.6" = "sha256-MtnSJgLGalQGzjS3eQX41sCwCN5lSPZAo8+IzrAq6g0=";
@@ -25,6 +27,7 @@
     "5.0.0-alpha.3" = "sha256-abvY2LGbvFC5bCaD48+XCb3mkcaR9FtRtV7SmtFiapk=";
     "5.0.0-alpha.2" = "sha256-DlKpDtC0Sa8wfhs9xe7p+sHHAQhNhl8CTRyra35hFAE=";
     "5.0.0-alpha.1" = "sha256-G3jVFOq/ba+0+bhVYIKZ4Xqr3mytqaKyp/IEW0rhErA=";
+    "5.0.0" = "sha256-goBgmT+BAM44G4DzzfENfYNXqHC6jm8CpVJfbevk7Cg=";
     "4.13.0-next.internal.4" = "sha256-JX/YSyykYnZ079JiYGmq9uFUXoIPuOIOTDGVwHmC2XM=";
     "4.13.0-next.internal.3" = "sha256-t5xIK/b/AiyNm2cDgZfWi2MUedAEIybjy0uoTswAyG8=";
     "4.13.0-next.internal.2" = "sha256-zJLJSkDk2uaYQgp0rOflNdOK51/f8CFGtc7Y5rDmhy8=";

@@ -1,8 +1,9 @@
 {
   repo = "https://charts.fossorial.io";
   chart = "newt";
-  latest = "1.5.0";
+  latest = "1.6.0";
   versions = {
+    "1.6.0" = "sha256-R0EF7DRNTkfU23IetK4UpYGukPxcc9qRoDfcVWTS0m4=";
     "1.5.0" = "sha256-8bXoH+Tg8wIsYcxwJhzQOX/SqOKVNjBxj9gXNMsazgg=";
     "1.4.0" = "sha256-RGRhmHxTVCuF/Ahs3FYe4mr2TI9NPCB5b8cJMfKsqNI=";
     "1.3.0" = "sha256-hC13RldwIeiwLFlhLrItRlTcGOIxV5Cgpqmyql897vU=";
