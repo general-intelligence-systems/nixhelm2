@@ -1,8 +1,10 @@
 {
   repo = "https://groundhog2k.github.io/helm-charts";
   chart = "valkey";
-  latest = "2.3.5";
+  latest = "2.4.1";
   versions = {
+    "2.4.1" = "sha256-6NQkp1VrWvHGz/M57ca+2k2pyyz6TqvG3Qg9ZUVclHc=";
+    "2.4.0" = "sha256-D/qCDPNpLmx6ODWN0Mm4pbMRq1Xi4ZSCdDlLgxTM4cI=";
     "2.3.5" = "sha256-tbOOuHtfv8alvlCbLo29MHZTQ5Mr7f6T+RVI8zOP4dw=";
     "2.3.4" = "sha256-DpiWLVOOdxRooPD4MCPSQkBlHFRBzJBNKQ3qLO0YTSc=";
     "2.3.3" = "sha256-xYvqw4DoW3xOGbgGrBUidvkC72BZ3nDrZRMXRROqUNc=";
