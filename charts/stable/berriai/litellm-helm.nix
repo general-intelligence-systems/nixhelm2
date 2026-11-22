@@ -10,6 +10,7 @@
     "1.109.2" = "sha256-aq31GZbVfNw8Z/zGcMD8WuKrdZEBJSU6vPe51dsANVg=";
     "1.109.1" = "sha256-HHJRi6p/Xf3RJATfjAcnLGJ/zHt3wySXsYzxTrGKIq4=";
     "1.109.0" = "sha256-zM9sHA7GEfb8HRUa67rdw9Yyohp3Iij4U8sYpMAgPr8=";
+    "1.108.15" = "sha256-5tKphUhh8UXVbgpoizxeHuKtwJYRXAwpZHUoQL/Lo1I=";
     "1.108.14" = "sha256-x7lejpbW/fOaI2ooKAGnkM/k06sUD9c4yLQgFghacbU=";
     "1.108.13" = "sha256-/5nZhLRtz/KO+YfDn41DKw15AxR9Bk+93bk8mOCxxAU=";
     "1.108.12" = "sha256-HkUq0w1owA95P7dZKGmzLn91BAQ40qyt6Ssyv5WzfQ0=";

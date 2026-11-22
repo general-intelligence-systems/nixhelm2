@@ -1,8 +1,9 @@
 {
   repo = "https://media-servarr.shw.al/charts";
   chart = "radarr";
-  latest = "1.15.1";
+  latest = "2.0.0";
   versions = {
+    "2.0.0" = "sha256-vXgoT8bH5Fe4CJ6B5t5ZVH90SFRlX0P+jq7PSiOR/hw=";
     "1.15.1" = "sha256-GBtYrMFdwn3yiIcHg0ZNlLMU3vfFJHTsknwFVU8eqbI=";
     "1.15.0" = "sha256-QrwY0cX9wGIrdOyZ+38NMh5jJ3HBoADMtZoPuW3cKSA=";
     "1.14.0" = "sha256-C0tK6U+L9HERjGS0PrdohzIBZUR2XzbgbH+1nMI7Ruc=";
