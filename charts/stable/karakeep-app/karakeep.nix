@@ -1,8 +1,10 @@
 {
   repo = "https://karakeep-app.github.io/helm-charts";
   chart = "karakeep";
-  latest = "0.34.1";
+  latest = "0.35.1";
   versions = {
+    "0.35.1" = "sha256-EVSNnAlAV9RbWw1+GAwdpZSbNpzmcFiFMP4T6aWj/ns=";
+    "0.35.0" = "sha256-WnA1krQxS9YZv8QF5PdvegURLuLYBwJ0k3CBDoHrAsU=";
     "0.34.1" = "sha256-xDVdy5hM+INBcUuv68IWHMA2R2PAWJOxLGDdQXuwWg4=";
     "0.34.0" = "sha256-8T506+uFmynTdBgOWPICV/BBVQZC5h+Mf39lFYTeRkc=";
     "0.33.1" = "sha256-2a2T8B/vyozq3r/qjZZUg+IhNjaKGH1f21fQO2NHsSc=";
