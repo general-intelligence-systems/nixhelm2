@@ -1,9 +1,11 @@
 {
   repo = "https://helm.ngc.nvidia.com/nvidia";
   chart = "dps-bmc-simulator";
-  latest = "0.10.0";
+  latest = "0.10.1";
   versions = {
+    "0.10.1" = "sha256-F7u4NvQhjgnoa1KlFuSd1pfM9UgKTM9CNJ+TADkLH9M=";
     "0.10.0" = "sha256-1Qfmu2cNpo/nkRwy9hOIkMZiMczAk/6cyItRJ8w8gyY=";
+    "0.9.1" = "sha256-L9vfiRL9DvVnnGfVgFea2hmv+s2NwaKTTLq8l3p0sQ4=";
     "0.9.0" = "sha256-D3th8RtZai4U/VPm/ErXiUXauvQzaHGEQUMtokqOgZM=";
     "0.8.3" = "sha256-myWRXanD1fVntfUdithBROWDUWa8KtLRm9TgJB8lono=";
     "0.8.2" = "sha256-9FdGCUYHRBjL4oT7Is+03xdOAcL0Aewodc8XhisHbto=";

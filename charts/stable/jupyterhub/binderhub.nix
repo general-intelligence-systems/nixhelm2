@@ -1,8 +1,11 @@
 {
   repo = "https://hub.jupyter.org/helm-chart";
   chart = "binderhub";
-  latest = "1.0.0-0.dev.git.3999.hdb437722";
+  latest = "1.0.0-0.dev.git.4012.h3af0d6a8";
   versions = {
+    "1.0.0-0.dev.git.4012.h3af0d6a8" = "sha256-E79PyOx5Rxfe7nHdaAnRVjddruAiZIp2DRCpWs/RPys=";
+    "1.0.0-0.dev.git.4007.heb662535" = "sha256-7OHkf0qqRT0G4KUebgdE/FPZuOCF9POW+qzLIl33bwQ=";
+    "1.0.0-0.dev.git.4001.heebdd18b" = "sha256-rJIFAUSQL41FzW8M7xeTbPu/nf5a7/AfY0g3DYs+xT8=";
     "1.0.0-0.dev.git.3999.hdb437722" = "sha256-AnhhAKjAoZmvOpWFzilXnZASjFrQ/mph00X31NSkCRE=";
     "1.0.0-0.dev.git.3998.h2129e893" = "sha256-WxBYYGGw4gresuULvP9f66OmAYEiVDVhTE53XWYM3Is=";
     "1.0.0-0.dev.git.3995.h77dd829f" = "sha256-kJHspP0UM6oG+wp47Sg6n8WxRh6MAoyhCeGjUXk/+lE=";
