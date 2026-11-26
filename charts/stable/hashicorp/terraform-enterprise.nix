@@ -1,10 +1,12 @@
 {
   repo = "https://helm.releases.hashicorp.com";
   chart = "terraform-enterprise";
-  latest = "2.1.1";
+  latest = "2.1.2";
   versions = {
+    "2.1.2" = "sha256-1/HDM8Pz43Mygu9+Zz5m7yvwOeY42FwFt8XPgqF5QP8=";
     "2.1.1" = "sha256-cmtopvMmLI4RDssOsxk+geEnA+Vtnx4DksaOsUZYqm4=";
     "2.1.0" = "sha256-hl7aO1Oa9ssbkbgtMcrtYlgH1VcvTFbjDQrdWI8L3So=";
+    "2.0.10" = "sha256-OU4cXerrtN6u0vh2H4hIv3uLj0dFJN98yxS25r5o9Yo=";
     "2.0.9" = "sha256-T+X2t0HzdcVluyxFrkMZ6qAV1w218ET/BEk4khDelJs=";
     "2.0.8" = "sha256-i4ogadwN1gzI7JKxEpQ9UNI+FfW+fmIlU+U0VloTdds=";
     "2.0.7" = "sha256-3qWEvPzDyks1O63nybMG74CP4aKsrc+nGFkwpDw+8Ss=";

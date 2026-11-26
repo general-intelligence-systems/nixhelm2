@@ -1,8 +1,9 @@
 {
   repo = "https://charts.jetstack.io";
   chart = "cert-manager-google-cas-issuer";
-  latest = "v0.14.0";
+  latest = "v0.15.0";
   versions = {
+    "v0.15.0" = "sha256-PVdNSGQ7ST60JA+cvQS5wrKFsWAMg+nbyE3cFHTTLOI=";
     "v0.14.0" = "sha256-GF8XE5r2pw2bxfLeU98TeS7Cp1npV4vvG8RaIiShmw8=";
     "v0.13.0" = "sha256-kE8maWzNnrcJpOi2+avQZ3HiEublBpnhLitpwO9pUqk=";
     "v0.12.0" = "sha256-r4N6kCxUGXsn5KfRfIAeQEPKoiBYTGwyZncC/d6gWGs=";

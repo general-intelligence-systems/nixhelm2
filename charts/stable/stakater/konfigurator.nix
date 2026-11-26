@@ -12,7 +12,7 @@
     "v0.0.20" = "sha256-Ni18uTE1a1hs+0O5MuOcI4M55OoZG7WyrJbvZiFTRhA=";
     "v0.0.19" = "sha256-YSh9vOUGhUA9j+g/aY/pP3Hz6pKCfoSPl39HZaKpmPQ=";
     "v0.0.18" = "sha256-aockxPg8sisA9EV/tuax8CCzMG0y3Bl08O5q+BNfJNY=";
-    "0.1.40" = "sha256-8okBPEqv5DfGZssXkwG6FJPQ8RXwcNr9Yhbun/VwiAM=";
+    "0.1.40" = "sha256-hn2ZZi7Qu1IDx9lELkbNv7Y3TWpOY5ZuLVUwyato52k=";
     "0.1.39" = "sha256-B9ODv1wuKmSoqokx7PWNhtWJl2OfkX6MKZ3OMOccesE=";
     "0.1.38" = "sha256-arqRvaGrncLGZPP7u2T0gRAencFtLGm+dgjDAtC83s8=";
     "0.1.37" = "sha256-vcHBs5YOpjudrzuBgW4LyWQj8/a5Qs7XzLlkuahiVs0=";
