@@ -4,6 +4,7 @@
   latest = "16.0.0-alpha1";
   versions = {
     "16.0.0-alpha1" = "sha256-VxOnEqfNQTQ7lWU7/4zYPxH5afJ17mssPq9PsZSjpt0=";
+    "15.4.6" = "sha256-kTILw/TtSWeahgshJRC4rS2SNz396VRKWApqRDgDHxQ=";
     "15.4.5" = "sha256-7N7TvbLCP85+7FF0cdMUso2rxSEBLvjmN6JM2O3Hbwk=";
     "15.4.4" = "sha256-AKlEOR6PPmMd/0/int4IggF5wH1WdW09r6+zWk8NK+o=";
     "15.4.3" = "sha256-l/jmRNbojRFzBHQ/kofCbXA4rykVmhHEU1jlpbLlkj0=";
@@ -20,6 +21,7 @@
     "15.0.0-alpha2" = "sha256-uBHzTzeHH7IeH81UMoI5XUtnQve69mCatvPHGlAdLNc=";
     "15.0.0-alpha1" = "sha256-feX16Q0M0gpclYZHtbFZaXHUZ2XcPRvJQ18hxytRBrM=";
     "15.0.0" = "sha256-sRVimBSe1b3rV+aUu+zCgXPY5uutLLWSAJ/gQe2oTWM=";
+    "14.12.6" = "sha256-RkKPNk5cyfg34+jfiZXL0k8CsFXzBsCn1sgL+qd60FY=";
     "14.12.5" = "sha256-+7IaII0nZiQc4ElmPsFHvlRcQIpIOclGLcouG8I+RRg=";
     "14.12.4" = "sha256-/6TJVTFSItl45ahYgFtyyK3pTP17gUNIudJiEj0OLxY=";
     "14.12.3" = "sha256-nyFsAVD+2fA1by857BKYUas8HjX579WhGFSwZsWJ3h4=";
