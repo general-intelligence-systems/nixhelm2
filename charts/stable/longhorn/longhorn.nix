@@ -11,6 +11,7 @@
     "1.11.2" = "sha256-pwJyyDaDkj7ZyvoH/h5POm59XXSHQRGzqK1CHmQQKnc=";
     "1.11.1" = "sha256-qT9gBS5ebjCNB+k/s+zA5NM2u9MjtyXwaJ3y5NaVJFs=";
     "1.11.0" = "sha256-fpBaiw3DJ0KRQ1Co5AYjT/WuZR1LjD+Zq6hKg2CKG/Y=";
+    "1.10.5" = "sha256-GqrlI0L4+TXrxnfi5ARCxS0tXhHLy7fS83PPfRs5dMA=";
     "1.10.2" = "sha256-tBT0V/jRiKyx8t+M/XbjEmfp/2MgBEC9+y1lcRFx1rY=";
     "1.10.1" = "sha256-qHHTl+Gc8yQ5SavUH9KUhp9cLEkAFPKecYZqJDPsf7k=";
     "1.10.0" = "sha256-K+nao6QNuX6R/WoyrtCly9kXvUHwsA3h5o8KmOajqAs=";
